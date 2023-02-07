@@ -43,14 +43,14 @@ Specialized Knowledge to Non-Specialists*. John Benjamins.
 ## 2017
 - Carvalho, S., Marques, F., Martins. C. & Balula, A. (2017). “More than words: the role of computer-assisted translation in teaching English for specific purposes”. In: *Proceedings of the International Conference on Educational Research and Innovation (ICERI 2017)*. ISBN: 9788469769577. DOI: 10.21125/iceri.2017.1975.
 
-# 2016
+## 2016
 - Carvalho, S., Costa, R. & Roche, C. (2016a). "LESS can indeed be more: linguistic and conceptual challenges in the age of interoperability." In: H. Erdman Thomsen, A. Pareja-Lora e B. N. Madsen, eds., *Term Bases and Linguistic Linked Open Data. Proceedings of the 12th International Conference on Terminology and Knowledge Engineering (TKE 2016)*. Copenhagen: Copenhagen Business School, pp.157-167. ISBN 978-879991790-7.
 - Carvalho, S., Costa, R. & Roche, C. (2016b). "Ontoterminology meets Lexicography: the Multimodal Online Dictionary of Endometriosis (MODE)." In: I. Kernerman, I. Kosem, S. Krek e L. Trap-Jensen, eds., *Proceedings of GLOBALEX 2016: Lexicographic Resources for Human Language Technology workshop at the 10th International Conference on Language Resources and Evaluation (LREC’16)*. Portorož: European Language Resources Association, pp.8-15. ISBN 978-2-9517408-9-1.
 
-# 2015
+## 2015
 - Carvalho, S., Roche, C. & Costa, R. (2015). "Ontologies for terminological purposes: the EndoTerm project." In: T. Poibeau e P. Faber, eds., *Multilingual Terminology, Ontologies and Knowledge Representation Models. Proceedings of the 11th International Conference on Terminology and Artificial Intelligence (TIA 2015)*. [n.d.]: CEUR Workshop Proceedings, pp.17-27.
 
-# Other resources
+## Other resources
 - Carvalho, S. (2020). OntoDomLab-Med: ontology of domain labels focused on Medicine. It has been developed within the scope of the collaboration of [NOVA CLUNL](https://clunl.fcsh.unl.pt/) in the transition of the Dicionário da Língua Portuguesa Contemporânea (DLPC) from the [Academia das Ciências de Lisboa](http://www.acad-ciencias.pt/) into a digital version. [https://github.com/sarampcarvalho/OntoDomLab-Med.](https://github.com/sarampcarvalho/OntoDomLab-Med)
 - Costa, R., Silva, R., Ramos, M., Carvalho, S., Salgado, A., Almeida, B. Glossário Colaborativo COVID-19. [https://www.lexonomy.eu/ec25mm79/](https://www.lexonomy.eu/ec25mm79/)
 
