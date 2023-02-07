@@ -23,7 +23,6 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Activities.md", title: "Other Activities"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:sara.carvalho@ua.pt"}
   - {title: Github, icon: github, url: "https://github.com/sarampcarvalho"}
   - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/sarampcarvalho/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/sarampcarvalho"}
