@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About me"
 layout: page
 ---
-
-## About me
 
 I am an [Assistant Professor](https://www.ua.pt/en/p/10320064) at the Águeda School of Technology and Management - University of Aveiro and have been teaching there since 2002, namely in the fields of Languages for Specific Purposes (English and German) and translation technologies. Since 2013, I have been responsible for the curricular unit of German Linguistics at the Department of Languages and Cultures of the University of Aveiro.
 
