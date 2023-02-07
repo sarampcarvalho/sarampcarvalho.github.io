@@ -1,3 +1,5 @@
+# Publications
+
 ## 2023
 - Carvalho, S., Wermuth, C. & Costa, R. (to be published). "Definitions in SNOMED CT through the lens of Terminology: from formal to textual". *Proceedings of the 2nd International Conference on Multilingual digital terminology today. Design, representation formats and management systems (MDTT 2023)*.
 - Carvalho, S., Costa, R. & Silva, R. (to be published). "Terminology at the service of patient-centred healthcare in the age of interoperability". In A. Ostroski Anic et al. (Ed.), *Terminology for the Public: Defining
@@ -35,7 +37,9 @@ Specialized Knowledge to Non-Specialists*. John Benjamins.
 - Ribeiro, S., Calvão, A.R., Simões, A. & Carvalho, S. (2020). Quão digital deverá ser um(a) secretário(a) de direção? Contributos para a caracterização deste profissional. In Ribeiro, S., Guardado, M.C. & Calvão, A. R. (coord.) *Secretariado: transições e conexões*, pp. 30-40. Aveiro: UA Editora. ISBN: 978-972-789-661-5. DOI: [https://doi.org/10.34624/pxey-b077](https://doi.org/10.34624/pxey-b077).
 
 ## 2019
-- Roche, C., Costa, R., Carvalho, S. & Almeida, B. (2019). “Knowledge-based terminological e-dictionaries: The EndoTerm and al-Andalus Pottery projects”. *Terminology and e-dictionaries*, Special Issue of Terminology 25:2 (2019). (Editors: Alcina Amparo, Rute Costa, Christophe Roche) Amsterdam / Philadelphia: John Benjamins, pp. 259-291. ISSN 0929-9971|e-issn 1569-9994.
+- Roche, C., Costa, R., Carvalho, S. & Almeida, B. (2019). “Knowledge-based terminological e-dictionaries: The EndoTerm and al-Andalus Pottery projects”. 
+*Terminology and e-dictionaries*, Special Issue of Terminology 25:2 (2019). (Editors: Alcina Amparo, Rute Costa, Christophe Roche) Amsterdam /
+Philadelphia: John Benjamins, pp. 259-291. ISSN 0929-9971|e-issn 1569-9994.
 
 ## 2018
 - Carvalho, S., Costa, R. & Roche, C. (2018). The Role of Conceptual Relations in the Drafting of Natural Language Definitions: an Example from the Biomedical Domain. In: I. Kernerman, S. Krek, eds., *Proceedings of the LREC 2018 Workshop “Globalex 2018 – Lexicography & WordNets”*. Miyazaki: European Language Resources Association (ELRA), pp.10-16. ISBN 979-10-95546-28-3. [http://lrec-conf.org/workshops/lrec2018/W33/index.html](http://lrec-conf.org/workshops/lrec2018/W33/index.html).
