@@ -1,5 +1,3 @@
-# Projects
-
 ## NexusLinguarum: European network for Web-centred linguistic data science
 - 🔗 [https://nexuslinguarum.eu/](https://nexuslinguarum.eu/)
 - October 2019 – April 2024
