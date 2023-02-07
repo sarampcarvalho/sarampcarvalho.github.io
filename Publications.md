@@ -1,3 +1,8 @@
+---
+title: "Publications"
+layout: page
+---
+
 ## 2023
 - Carvalho, S., Wermuth, C. & Costa, R. (to be published). "Definitions in SNOMED CT through the lens of Terminology: from formal to textual". *Proceedings of the 2nd International Conference on Multilingual digital terminology today. Design, representation formats and management systems (MDTT 2023)*.
 - Carvalho, S., Costa, R. & Silva, R. (to be published). "Terminology at the service of patient-centred healthcare in the age of interoperability". In A. Ostroski Anic et al. (Ed.), *Terminology for the Public: Defining
