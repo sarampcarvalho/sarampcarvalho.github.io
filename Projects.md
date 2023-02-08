@@ -17,7 +17,7 @@ layout: page
 - ERASMUS + PROGRAMME (ERASMUS): ERASMUS-EDU-2022-EMJM-DESIGN.
 - Coordination: Universidade NOVA de Lisboa. 
 - Partners: Università Cattolica del Sacro Cuore of Milan (Italy), University of Zaragoza (Spain), University of Galway (Ireland), National Institute for Research in Digital Science and Technology – INRIA (France).
-- Team: Rute Costa (IR), **Sara Carvalho**, Raquel Amaro, Marco Passarotti, Jorge Garcia, John McCrae, Laurent Romary.
+- Team: Rute Costa (PI), **Sara Carvalho**, Raquel Amaro, Marco Passarotti, Jorge Garcia, John McCrae, Laurent Romary.
 
 ### MORDigital
 - [https://mordigital.fcsh.unl.pt/](https://mordigital.fcsh.unl.pt/)
@@ -41,7 +41,7 @@ layout: page
 - [https://inovacaosocial.portugal2020.pt/project/mulherendo-pelo-reconhecimento-da-endometriose-em-portugal/?doing_wp_cron=1675100076.4847559928894042968750](https://inovacaosocial.portugal2020.pt/project/mulherendo-pelo-reconhecimento-da-endometriose-em-portugal/?doing_wp_cron=1675100076.4847559928894042968750)
 - January 2018 - August 2019
 - Funding: Portugal Inovação Social - POISE-03-4639-FSE-000084 
-- Team: Susana Fonseca (coordenação), Fátima Silva, Dália Almeida, **Sara Carvalho**.
+- Team: Susana Fonseca (coordination), Fátima Silva, Dália Almeida, **Sara Carvalho**.
 
 # Networks
 - International Standardization Organization (ISO) - Technical Committee 37: TC37/SC2/WG1 “Language varieties”; TC37/SC3/WG5 “Terminology extraction”; TC37/SC4/WG4 “Lexical resources”.
