@@ -1,7 +1,8 @@
 ---
-title: "Projects"
+title: "Projects and Networks"
 layout: page
 ---
+# Projects
 
 ## NexusLinguarum: European network for Web-centred linguistic data science 
 - [https://nexuslinguarum.eu/](https://nexuslinguarum.eu/)
@@ -42,8 +43,9 @@ layout: page
 - Funding: Portugal Inovação Social - POISE-03-4639-FSE-000084 
 - Team: Susana Fonseca (coordenação), Fátima Silva, Dália Almeida, Sara Carvalho.
 
-
-
-
-
-
+# Networks
+- International Standardization Organization (ISO) - Technical Committee 37: TC37/SC2/WG1 “Language varieties”; TC37/SC3/WG5 “Terminology extraction”; TC37/SC4/WG4 “Lexical resources”.
+- Comissão Técnica 221: Terminologia, Língua e Linguagens. Instituto Português da Qualidade.
+- European Association for Terminology (EAFT).
+- Ontology-Lexica Community Group. W3C Community and Business Groups (https://www.w3.org/community/ontolex/).
+- Best Practices for Multilingual Linked Open Data Community Group. W3C Community and Business Groups (https://www.w3.org/community/bpmlod/).
