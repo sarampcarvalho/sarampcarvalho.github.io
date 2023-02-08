@@ -1,12 +1,12 @@
-# Teaching
-## 2022-2023 Academic year
-### 1st semester
+## Teaching
+### 2022-2023 Academic year
+#### 1st semester
 - Introduction to German (Bachelor's Degree in Office Management and Business Communication. ESTGA-UA)
 - German Linguistics (Bachelor's Degree in Languages, Literatures and Cultures. DLC-UA)
 - English Applied to Retail Management (Bachelor's Degree in Retail Management. ESTGA-UA)
 - Technical Communication (PhD Program in Translation and Terminology. DLC-UA/NOVA FCSH)
 
-# Advanced Training (coordination and/or delivery)
+## Advanced Training (coordination and/or participation as trainer)
 - “Terminology and technical communication: an inseparable pair?". Seminar held within the scope of the **Technical Communication** course. PhD Program in Translation and Terminology. DLC-UA/NOVA FCSH. 26 November 2021 (2h).
 - "Desafios e oportunidades do trabalho terminológico na área da saúde: contributos para a tradução de especialidade". Workshop held within the scope of the **English - Advanced Translation Techniques** course. Master's in Specialised Translation. DLC-UA. 16 November 2021 (2h).
 - "Terminologia e comunicação em saúde na era digital/Terminology and healthcare communication in the digital age". NOVA FCSH Summer School, 19-23 July 2021. Coordination: Rute Costa, Raquel Silva, Sara Carvalho, Cristina Vaz de Almeida, Cláudia Quaresma, Micaela Fonseca (15h).
