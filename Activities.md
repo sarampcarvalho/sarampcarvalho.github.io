@@ -16,3 +16,28 @@ layout: page
 - Carvalho, S., Costa, R. & Silva, R. (2019). *It takes a CROWD to raise awareness: expert patients as co- creators of lexicographic resources*. Electronic lexicography in the 21st century (eLex 2019): Smart Lexicography. 1-3 October 2019.
 - Costa, R., Silva, R., Ramos, M. & Carvalho, S. (2019). *Science with and for society: the popularization of Terminology within the domain of Nutrition*. 22nd Conference on Languages for Specific Purposes, Dipartimento Di Studi Linguistici E Letterari (DISLL). University of Padua, Italy. 10-12 July 2019. ⟨hal-02140087⟩
 - Carvalho, S., Costa, R. & Roche, C. (2019). *Terminology in action in a healthcare setting: when the conceptual and the linguistic intertwine*. 2019 TOTh Conference - Terminology and Ontology: Theories and Applications. 6-7 June 2019.
+
+## Participation in Organising Committees
+- LDK 2023 – 4th Conference on Language, Data and Knowledge. Program Chair. 12-15 September 2023 (http://2023.ldk-conf.org/organizers/).
+- 3rd Workshop on Sentiment Analysis and Linguistic Linked Data (SALLD-3). co-located with LDK 2023. 13 September 2023 (https://www.salld.org/salld-3/).
+- TermTrends 2023: Terminology in the Era of Linguistic Data Science.  co-located with LDK 2023. 13 September 2023 (https://termtrends.linkeddata.es/).
+- 2nd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems". 29 - 30 June 2023, Lisbon, Portugal (http://mdtt2023.dei.unipd.it/en/). 
+- Trends in Terminology Generation and Modelling. EKAW 2022. 23rd International Conference on Knowledge Engineering and Knowledge Management. 26 September 2022. Bolzano, Italy (https://termtrends.linkeddata.es/).
+- LSP 2022 – Shaping knowledge through language: LSP in theory and practice. 23rd International Conference on Languages for Specific Purposes. 12-13 September 2022. NOVA University Lisbon. (https://lsp.fcsh.unl.pt/en/welcome/).
+- 2nd Workshop on Sentiment Analysis and Linguistic Linked Data (SALLD-2). LREC 2022 Workshop. 24 June 2022. Marseille, France. (https://www.salld.org/salld-2/).
+- Workshop on Terminology in the 21st century: many faces, many places (Term21). LREC 2022 Workshop. 20 June 2022. Marseille, France. (https://term21- lrec2022.fcsh.unl.pt/).
+- LDK 2021 - 3rd Conference on Language, Data and Knowledge. Workshop Chair. 1-4 September 2021 (http://2021.ldk-conf.org/organizers).
+- Colóquio Internacional Voice of Customer. Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018 (http://jorcomtec.web.ua.pt/).
+
+## Participation in Scientific/Program Committees
+- Humanities Going Digital: teaching, training and research experiences (HUGO-D Conference). 2-3 February 2023. NOVA FCSH, Lisbon (https://hugod.fcsh.unl.pt/committees/).
+- 29th International Conference on Computational Linguistics (COLING 2022). 12-17 October 2022. Gyeongju, Republic of Korea.
+- Workshop TOTh 2021 Terminology, interoperability and data integration: issues and challenges. 10 December 2021 (http://toth.condillac.org/workshop-2021-en).
+- 1st Workshop on Sentiment Analysis and Linguistic Linked Data, co-located with LDK 2021. 1 September 2021 (https://www.salld.org/).
+- 5th International Conference TechLing’20 – Languages, Linguistics and Technology. 15-16 October 2020. University of Aveiro.
+- Colóquio Internacional Words in (R)evolution. 2 March 2020. Department of Languages and Cultures - University of Aveiro.
+
+## Journal Refereeing
+- Semantic Web Journal. IOS Press, ISSN: 1570-0844 | IF: 2022 - 3.105.
+- Linha D’Água. Revista da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo. eISSN: 2236-4242. nível A4 no sistema Qualis/CAPES.
+- Diacrítica. Centro de Estudos Humanísticos da Universidade do Minho. ISSN 0870-8967.
