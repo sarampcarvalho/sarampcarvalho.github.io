@@ -1,3 +1,7 @@
+---
+title: "Teaching/Training"
+layout: page
+---
 ## Teaching
 ### 2022-2023 Academic year
 #### 1st semester
