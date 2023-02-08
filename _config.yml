@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/sarampcarvalho"}
-  - {title: LinkedIn, icon: linkedin, url: "https://https://www.linkedin.com/in/sarampcarvalho/"}
+  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/sarampcarvalho/"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/sarampcarvalho"}
 
 comments:
