@@ -46,3 +46,6 @@ layout: page
 - Semantic Web Journal. IOS Press, ISSN: 1570-0844 | IF: 2022 - 3.105.
 - Linha D’Água. Revista da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo. eISSN: 2236-4242. nível A4 no sistema Qualis/CAPES.
 - Diacrítica. Centro de Estudos Humanísticos da Universidade do Minho. ISSN 0870-8967.
+
+## Awards
+- Collaborative Research Award Santander NOVA 2019/2020. The Com@Rehab Project - Communication for interactive rehabilitation in virtual reality (Comunicação para reabilitação interativa em realidade virtual). September 2020.
