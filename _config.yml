@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "AboutMe.md", title: "About me"}
   - {file: "Publications.md", title: "Publications"}
   - {file: "Projects.md", title: "Projects"}
+  - {file: "Teaching.md", title: "Teaching/Training"}
   - {file: "Activities.md", title: "Other Activities"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
