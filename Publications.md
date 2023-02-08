@@ -49,8 +49,10 @@ Philadelphia: John Benjamins, pp. 259-291. ISSN 0929-9971|e-issn 1569-9994.
 
 ## 2017
 - Carvalho, S., Marques, F., Martins. C. & Balula, A. (2017). “More than words: the role of computer-assisted translation in teaching English for specific purposes”. In: *Proceedings of the International Conference on Educational Research and Innovation (ICERI 2017)*. ISBN: 9788469769577. DOI: 10.21125/iceri.2017.1975.
+- Marques, F., Carvalho, S., Martins, C. & Balula, A. (2017). "Inglês para Fins Específicos: da sala de aula para o mundo". Teaching Day 2017. A investigação no ensino-aprendizagem: práticas de articulação. 29 November 2017 [poster].
 
 ## 2016
+- Carvalho, S., Marques, F., Martins, C. & Balula, A. (2016). "O papel da Tradução Assistida por Computador no ensino de Inglês para fins específicos". Teaching Day 2016. 7 December 2016 [poster].
 - Carvalho, S., Costa, R. & Roche, C. (2016a). "LESS can indeed be more: linguistic and conceptual challenges in the age of interoperability." In: H. Erdman Thomsen, A. Pareja-Lora e B. N. Madsen, eds., *Term Bases and Linguistic Linked Open Data. Proceedings of the 12th International Conference on Terminology and Knowledge Engineering (TKE 2016)*. Copenhagen: Copenhagen Business School, pp.157-167. ISBN 978-879991790-7.
 - Carvalho, S., Costa, R. & Roche, C. (2016b). "Ontoterminology meets Lexicography: the Multimodal Online Dictionary of Endometriosis (MODE)." In: I. Kernerman, I. Kosem, S. Krek e L. Trap-Jensen, eds., *Proceedings of GLOBALEX 2016: Lexicographic Resources for Human Language Technology workshop at the 10th International Conference on Language Resources and Evaluation (LREC’16)*. Portorož: European Language Resources Association, pp.8-15. ISBN 978-2-9517408-9-1.
 
