@@ -12,3 +12,6 @@ I also hold an MA in German Studies – specialisation in German Linguistics –
 I am currently a researcher from the [LLT (Lexicology, Lexicography and Terminology) team](https://clunl.fcsh.unl.pt/en/groups_clunl/lexicologia-lexicografia-terminologia/team/) at the Linguistics Research Centre of NOVA University Lisbon (NOVA CLUNL) and a collaborator from the [Translation and Terminology project](https://www.ua.pt/en/cllc/page/23270) at the Languages, Literatures and Cultures Research Centre of the University of Aveiro (CLLC).
 
 In addition, I am a member of the ISO/TC 37 and of the Portuguese mirror committee "CT 221 – Terminologia, Língua e Linguagens" at the Portuguese Institute for Quality (IPQ). I also integrate the [COST Action 18209 - European network for Web-centred linguistic data science](https://www.cost.eu/actions/CA18209/), where I currently lead Working Group 4 (Use cases and applications).
+
+***
+I am also proud to be one of the co-founders of the Portuguese Association Supporting Women with Endometriosis (MulherEndo). You can learn more about our work [here](https://mulherendo.pt/).
