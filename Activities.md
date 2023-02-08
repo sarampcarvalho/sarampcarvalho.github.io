@@ -16,6 +16,11 @@ layout: page
 - Carvalho, S., Costa, R. & Silva, R. (2019). *It takes a CROWD to raise awareness: expert patients as co- creators of lexicographic resources*. Electronic lexicography in the 21st century (eLex 2019): Smart Lexicography. 1-3 October 2019.
 - Costa, R., Silva, R., Ramos, M. & Carvalho, S. (2019). *Science with and for society: the popularization of Terminology within the domain of Nutrition*. 22nd Conference on Languages for Specific Purposes, Dipartimento Di Studi Linguistici E Letterari (DISLL). University of Padua, Italy. 10-12 July 2019. ⟨hal-02140087⟩
 - Carvalho, S., Costa, R. & Roche, C. (2019). *Terminology in action in a healthcare setting: when the conceptual and the linguistic intertwine*. 2019 TOTh Conference - Terminology and Ontology: Theories and Applications. 6-7 June 2019.
+- Carvalho, S. (2017). *Representing, organising and sharing knowledge within the biomedical domain: the example of endometriosis*. Workshop CLUNL for Young Researchers: “Picking Brains, Crossing Ideas”. 18 December 2017.
+- Costa, R., Roche, C., Carvalho, S., Almeida, B. & Ramos, M. (2017). *A terminological and ontology-based approach to e-dictionaries construction: the cases of cork, endometriosis, and Islamic archaeology*. Workshop TOTh 2017: Terminology and e-dictionaries. 17 November 2017.
+- Carvalho, S., Martins, C., Marques, F. & Balula, A. (2017). *O projeto Code Avengers na ESTGA: colaborar para inovar*. Jornadas Técnico-Científicas da ESTGA. 25 October 2017.
+- Carvalho, S., Costa, R. & Roche, C. (2017). *TEDi’s contribution to terminology work: the case of the EndoTerm project*. Journée d’étude “Terminologie formelle”. Équipe Condillac - Université de Savoie Mont Blanc. 12 July 2017.
+- Carvalho, S. (2017). *Representing, organising and sharing knowledge within the scope of Medicine: the role of Terminology*. Encontro Ciência 2017. Fundação para a Ciência e Tecnologia - Ciência Viva. 4 July 2017.
 
 ## Participation in Organising Committees
 - LDK 2023 – 4th Conference on Language, Data and Knowledge. Program Chair. 12-15 September 2023 (http://2023.ldk-conf.org/organizers/).
