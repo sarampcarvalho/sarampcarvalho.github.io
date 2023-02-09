@@ -23,22 +23,22 @@ layout: page
 - Carvalho, S. (2017). *Representing, organising and sharing knowledge within the scope of Medicine: the role of Terminology*. Encontro Ciência 2017. Fundação para a Ciência e Tecnologia - Ciência Viva. 4 July 2017.
 
 ## Participation in Organising Committees
-- LDK 2023 – 4th Conference on Language, Data and Knowledge. Program Chair. 12-15 September 2023 (http://2023.ldk-conf.org/organizers/).
-- 3rd Workshop on Sentiment Analysis and Linguistic Linked Data (SALLD-3). co-located with LDK 2023. 13 September 2023 (https://www.salld.org/salld-3/).
-- TermTrends 2023: Terminology in the Era of Linguistic Data Science.  co-located with LDK 2023. 13 September 2023 (https://termtrends.linkeddata.es/).
-- 2nd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems". 29 - 30 June 2023, Lisbon, Portugal (http://mdtt2023.dei.unipd.it/en/). 
-- Trends in Terminology Generation and Modelling. EKAW 2022. 23rd International Conference on Knowledge Engineering and Knowledge Management. 26 September 2022. Bolzano, Italy (https://termtrends.linkeddata.es/).
-- LSP 2022 – Shaping knowledge through language: LSP in theory and practice. 23rd International Conference on Languages for Specific Purposes. 12-13 September 2022. NOVA University Lisbon. (https://lsp.fcsh.unl.pt/en/welcome/).
-- 2nd Workshop on Sentiment Analysis and Linguistic Linked Data (SALLD-2). LREC 2022 Workshop. 24 June 2022. Marseille, France. (https://www.salld.org/salld-2/).
-- Workshop on Terminology in the 21st century: many faces, many places (Term21). LREC 2022 Workshop. 20 June 2022. Marseille, France. (https://term21- lrec2022.fcsh.unl.pt/).
-- LDK 2021 - 3rd Conference on Language, Data and Knowledge. Workshop Chair. 1-4 September 2021 (http://2021.ldk-conf.org/organizers).
-- Colóquio Internacional Voice of Customer. Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018 (http://jorcomtec.web.ua.pt/).
+- [LDK 2023 – 4th Conference on Language, Data and Knowledge](http://2023.ldk-conf.org). Program Chair. 12-15 September 2023.
+- [3rd Workshop on Sentiment Analysis and Linguistic Linked Data (SALLD-3)](https://www.salld.org/salld-3/). Co-located with LDK 2023. 13 September 2023.
+- [TermTrends 2023: Terminology in the Era of Linguistic Data Science](https://termtrends.linkeddata.es/).  Co-located with LDK 2023. 13 September 2023.
+- [2nd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](http://mdtt2023.dei.unipd.it/en/). 29 - 30 June 2023, Lisbon, Portugal. 
+- [Trends in Terminology Generation and Modelling](https://termtrends.linkeddata.es/). EKAW 2022. 23rd International Conference on Knowledge Engineering and Knowledge Management. 26 September 2022. Bolzano, Italy.
+- [LSP 2022 – Shaping knowledge through language: LSP in theory and practice. 23rd International Conference on Languages for Specific Purposes](https://lsp.fcsh.unl.pt/en/welcome/). 12-13 September 2022. NOVA University Lisbon.
+- [2nd Workshop on Sentiment Analysis and Linguistic Linked Data (SALLD-2)](https://www.salld.org/salld-2/). Co-located with LREC 2022. 24 June 2022. Marseille, France.
+- [Workshop on Terminology in the 21st century: many faces, many places (Term21)](https://term21- lrec2022.fcsh.unl.pt/). Co-located with LREC 2022. 20 June 2022. Marseille, France.
+- [LDK 2021 - 3rd Conference on Language, Data and Knowledge](http://2021.ldk-conf.org/organizers). Workshop Chair. 1-4 September 2021.
+- [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
 ## Participation in Scientific/Program Committees
-- Humanities Going Digital: teaching, training and research experiences (HUGO-D Conference). 2-3 February 2023. NOVA FCSH, Lisbon (https://hugod.fcsh.unl.pt/committees/).
+- [Humanities Going Digital: teaching, training and research experiences (HUGO-D Conference)](https://hugod.fcsh.unl.pt/committees/). 2-3 February 2023. NOVA FCSH, Lisbon.
 - 29th International Conference on Computational Linguistics (COLING 2022). 12-17 October 2022. Gyeongju, Republic of Korea.
-- Workshop TOTh 2021 Terminology, interoperability and data integration: issues and challenges. 10 December 2021 (http://toth.condillac.org/workshop-2021-en).
-- 1st Workshop on Sentiment Analysis and Linguistic Linked Data, co-located with LDK 2021. 1 September 2021 (https://www.salld.org/).
+- [Workshop TOTh 2021 Terminology, interoperability and data integration: issues and challenges](http://toth.condillac.org/workshop-2021-en). 10 December 2021. Paris.
+- [1st Workshop on Sentiment Analysis and Linguistic Linked Data](https://www.salld.org/). Co-located with LDK 2021. 1 September 2021. Zaragoza.
 - 5th International Conference TechLing’20 – Languages, Linguistics and Technology. 15-16 October 2020. University of Aveiro.
 - Colóquio Internacional Words in (R)evolution. 2 March 2020. Department of Languages and Cultures - University of Aveiro.
 
