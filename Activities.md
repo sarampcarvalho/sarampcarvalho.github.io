@@ -30,7 +30,7 @@ layout: page
 - [Trends in Terminology Generation and Modelling](https://termtrends.linkeddata.es/). EKAW 2022. 23rd International Conference on Knowledge Engineering and Knowledge Management. 26 September 2022. Bolzano, Italy.
 - [LSP 2022 – Shaping knowledge through language: LSP in theory and practice. 23rd International Conference on Languages for Specific Purposes](https://lsp.fcsh.unl.pt/en/welcome/). 12-13 September 2022. NOVA University Lisbon.
 - [2nd Workshop on Sentiment Analysis and Linguistic Linked Data (SALLD-2)](https://www.salld.org/salld-2/). Co-located with LREC 2022. 24 June 2022. Marseille, France.
-- [Workshop on Terminology in the 21st century: many faces, many places (Term21)](https://term21- lrec2022.fcsh.unl.pt/). Co-located with LREC 2022. 20 June 2022. Marseille, France.
+- [Workshop on Terminology in the 21st century: many faces, many places (Term21)](https://term21-lrec2022.fcsh.unl.pt/). Co-located with LREC 2022. 20 June 2022. Marseille, France.
 - [LDK 2021 - 3rd Conference on Language, Data and Knowledge](http://2021.ldk-conf.org/organizers). Workshop Chair. 1-4 September 2021.
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
