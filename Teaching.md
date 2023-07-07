@@ -48,7 +48,7 @@ Session 2020 [Online], 24-25 November 2020. (http://toth.condillac.org/training-
 - “3rd Summer Datathon on Linguistic Linked Open Data”. Schloss Dagstuhl - Leibniz Center for Informatics. 12-17 maio 2019 (35h).
 - “From print to screen: the theory and practice of digitizing dictionaries” - Toma Tasovac.NOVA Lisbon Summer School in Linguistics 2018. 2-6 julho 2018 (15h).
 - “SNOMED CT Content Development Course”. SNOMED International. Janeiro-Abril de 2017 (50h).
-- “Transcription et analyse de corpus multimodaux avec CLAN”. Institut de Linguistique Française | Laboratoire de recherche HUMA-NUM. Novembro de 2016 (6h).
+- “Transcription et analyse de corpus multimodaux avec CLAN”. Institut de Linguistique Française. Laboratoire de recherche HUMA-NUM. Novembro de 2016 (6h).
 - “SNOMED CT Foundation Course”. SNOMED International. Setembro de 2015-Janeiro de 2016 (50h).
 - “Deutsch in der Wirtschaft”. Goethe Institut Düsseldorf. Bolsa do Goethe Institut Portugal. 28 Julho-10 Agosto de 2013 (80h).
 - “International Terminology Summer School”. TermNet (International Network for Terminology). 11-15 julho de 2011 (50h).
