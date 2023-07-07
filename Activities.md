@@ -35,6 +35,7 @@ layout: page
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
 ## Participation in Scientific/Program Committees
+- [2nd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](http://mdtt2023.dei.unipd.it/en/). 29 - 30 June 2023, Lisbon, Portugal. 
 - [Humanities Going Digital: teaching, training and research experiences (HUGO-D Conference)](https://hugod.fcsh.unl.pt/committees/). 2-3 February 2023. NOVA FCSH, Lisbon.
 - 29th International Conference on Computational Linguistics (COLING 2022). 12-17 October 2022. Gyeongju, Republic of Korea.
 - [Workshop TOTh 2021 Terminology, interoperability and data integration: issues and challenges](http://toth.condillac.org/workshop-2021-en). 10 December 2021. Paris.
