@@ -32,3 +32,6 @@ Session 2020 [Online], 24-25 November 2020. (http://toth.condillac.org/training-
 - "Apport de la linguistique à la terminologie". TOTh Training Session 2018, 5-6 June 2018. Coordination: Rute Costa, Christophe Roche, Sara Carvalho (15h).
 - "Ferramentas para tratamento de corpora: o exemplo do AntConc". Workshop held within the scope of the **English - Advanced Translation Techniques** course. Master's in Specialised Translation. DLC-UA. 4 April 2017 (3h).
 - "Ferramentas Aplicadas à Investigação em Terminologia". Seminar organised by the Lexicology, Lexicography and Terminology Research Group. NOVA FCSH. Coordination: Rute Costa. 18 February 2017 (3h).
+
+## Advanced Training (as participant)
+- “Terminology and technical communication: an inseparable pair?". Seminar held within the scope of the **Technical Communication** course. PhD Program in Translation and Terminology. DLC-UA/NOVA FCSH. 26 November 2021 (2h).
