@@ -6,7 +6,7 @@ layout: page
 ## 2023
 - **Carvalho, S.**, Wermuth, C. & Costa, R. (2023). "Definitions in SNOMED CT through the lens of Terminology: from formal to textual". In: Di Nunzio, G., Costa, R. & Vezzani, F. (eds.), *Proceedings of the 2nd International Conference on Multilingual digital terminology today. Design, representation formats and management systems (MDTT 2023)*, Lisbon, Portugal, June 29-30, 2023, [https://ceur-ws.org/Vol-3427/paper1.pdf](https://ceur-ws.org/Vol-3427/paper1.pdf).
 
-- Simões, A. (org.), Balula, A. (org.), **Carvalho, S. (org.)**, Mouro, A. L. (org.), Costa, A. R. (org.), Neves, M. (org.) & Vasconcelos, S. (org.) (2023). I International Conference on Language and Intercultural Communication Learning (LaICL): book of extended abstracts. Aveiro: UA Editora. ISBN: 978-972-789-885-5. DOI: 10.48528/yjpm-3c03. [https://ria.ua.pt/handle/10773/39435](https://ria.ua.pt/handle/10773/39435). 
+- Simões, A. (org.), Balula, A. (org.), **Carvalho, S. (org.)**, Mouro, A. L. (org.), Costa, A. R. (org.), Neves, M. (org.) & Vasconcelos, S. (org.) (2023). *I International Conference on Language and Intercultural Communication Learning (LaICL): book of extended abstracts*. Aveiro: UA Editora. ISBN: 978-972-789-885-5. DOI: 10.48528/yjpm-3c03. [https://ria.ua.pt/handle/10773/39435](https://ria.ua.pt/handle/10773/39435). 
 
 - Costa, R., Salgado, A., Ramos, M., Almeida, B., Silva, R., **Carvalho, S.**, Khan, F., Tasovac, T., Khemakhem, M. & Romary, L. (2023). "A crossroad between lexicography and terminology work: Knowledge organization and domain labelling", *Digital Scholarship in the Humanities*, Volume 38, Issue Supplement_1, June 2023, Pages i17–i29, [https://doi.org/10.1093/llc/fqad022](https://doi.org/10.1093/llc/fqad022).
   
