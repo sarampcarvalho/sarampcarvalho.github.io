@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## 2023
-- **Carvalho, S.**,  Khan, A. F., Anić, A. O., Spahiu, B., Gracia, J., McCrae, J. P., Gromann, D., Heinisch, B. & Salgado, A. (Editors) (2023). *Proceedings of the 4th Conference on Language, Data and Knowledge*. 12-15 September, Vienna, Austria. NOVA CLUNL, Portugal. ISBN: 978-989-54081-5-3. DOI: https://doi.org/10.34619/srmk-injj. [https://aclanthology.org/volumes/2023.ldk-1/](https://aclanthology.org/volumes/2023.ldk-1/). 
+- **Carvalho, S.**,  Khan, A. F., Anić, A. O., Spahiu, B., Gracia, J., McCrae, J. P., Gromann, D., Heinisch, B. & Salgado, A. (Eds.) (2023). *Proceedings of the 4th Conference on Language, Data and Knowledge*. 12-15 September, Vienna, Austria. NOVA CLUNL, Portugal. ISBN: 978-989-54081-5-3. DOI: https://doi.org/10.34619/srmk-injj. [https://aclanthology.org/volumes/2023.ldk-1/](https://aclanthology.org/volumes/2023.ldk-1/). 
 - **Carvalho, S.**, Wermuth, C. & Costa, R. (2023). "Definitions in SNOMED CT through the lens of Terminology: from formal to textual". In: Di Nunzio, G., Costa, R. & Vezzani, F. (eds.), *Proceedings of the 2nd International Conference on Multilingual digital terminology today. Design, representation formats and management systems (MDTT 2023)*, Lisbon, Portugal, June 29-30, 2023, [https://ceur-ws.org/Vol-3427/paper1.pdf](https://ceur-ws.org/Vol-3427/paper1.pdf).
 - Simões, A. (org.), Balula, A. (org.), **Carvalho, S. (org.)**, Mouro, A. L. (org.), Costa, A. R. (org.), Neves, M. (org.) & Vasconcelos, S. (org.) (2023). *I International Conference on Language and Intercultural Communication Learning (LaICL): book of extended abstracts*. Aveiro: UA Editora. ISBN: 978-972-789-885-5. DOI: 10.48528/yjpm-3c03. [https://ria.ua.pt/handle/10773/39435](https://ria.ua.pt/handle/10773/39435). 
 
