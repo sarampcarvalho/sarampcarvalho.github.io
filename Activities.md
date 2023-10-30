@@ -3,11 +3,11 @@ title: "Other Activities"
 layout: page
 ---
 ## Invited Talks
-- Carvalho, S. (2022). Definitions in SNOMED CT: the role of Terminology and Knowledge Organization. SNOMED CT Translation User Group Meeting. 28 June 2022.
-- Carvalho, S. (2022). Terminology and Linguistic Linked Data in the biomedical domain: hype, hope and reality. Terminology and Specialized Knowledge Representation: New Perspectives on User Needs (TESK 2022). Rijeka, 9-10 June 2022 [Keynote speaker].
+- Carvalho, S. (2022). *Definitions in SNOMED CT: the role of Terminology and Knowledge Organization*. SNOMED CT Translation User Group Meeting. 28 June 2022.
+- Carvalho, S. (2022). *Terminology and Linguistic Linked Data in the biomedical domain: hype, hope and reality*. Terminology and Specialized Knowledge Representation: New Perspectives on User Needs (TESK 2022). Rijeka, 9-10 June 2022 [Keynote speaker].
 - Carvalho, S. (2021). Membro do painel Health literacy: What's the value of an informed citizen?, no âmbito do workshop online "Healthcare in Post-Pandemic", organised by Value for Health CoLAB. 18 June 2021.
-- Silva, R., Costa, R., Carvalho, S. (2021). Terminology. A pivotal element in knowledge sharing in the digital age. ArgLab Research Colloquium, Instituto de Filosofia da NOVA (IFILNOVA). 11 June 2021.
-- Carvalho, S. (2021). Terminology and knowledge organization in healthcare: challenges and opportunities. Seminar: Outside the frames: new challenges in terminology work. Dynamicity of Specialized Knowledge Categories (DIKA), Institute of Croatian Language and Linguistics. 5 March 2021.
+- Silva, R., Costa, R., Carvalho, S. (2021). *Terminology. A pivotal element in knowledge sharing in the digital age*. ArgLab Research Colloquium, Instituto de Filosofia da NOVA (IFILNOVA). 11 June 2021.
+- Carvalho, S. (2021). *Terminology and knowledge organization in healthcare: challenges and opportunities*. Seminar: "Outside the frames: new challenges in terminology work. Dynamicity of Specialized Knowledge Categories (DIKA)", Institute of Croatian Language and Linguistics. 5 March 2021.
 
 ## Conference presentations
 - Carvalho, S., Wermuth, M. C. & Costa, R. (2023). *Exploring the role of Terminology in SNOMED CT definitions: challenges and solutions*. SNOMED CT Expo 2023. Atlanta, October 26-27, 2023.
