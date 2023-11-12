@@ -24,7 +24,8 @@ layout: page
 - Carvalho, S. (2017). *Representing, organising and sharing knowledge within the scope of Medicine: the role of Terminology*. Encontro Ciência 2017. Fundação para a Ciência e Tecnologia - Ciência Viva. 4 July 2017.
 
 ## Participation in Organising Committees
-- [International Conference on Language and Intercultural Communication Learning (LaICL). Language and intercultural competence education in a global age: bridging divides for diverse, inclusive societies](https://laicl.web.ua.pt/). University of Aveiro – Águeda School of Technology and Management. Steering Committee. 28-29 September 2023, Águeda, Portugal
+- Jornadas de Comunicação Técnica 2023: adaptações e conexões/Technical Communication Conference 2023: adaptations and connections. University of Aveiro - Department of Languages and Cultures. 10 November 2023, Aveiro, Portugal.
+- [International Conference on Language and Intercultural Communication Learning (LaICL). Language and intercultural competence education in a global age: bridging divides for diverse, inclusive societies](https://laicl.web.ua.pt/). University of Aveiro – Águeda School of Technology and Management. Steering Committee. 28-29 September 2023, Águeda, Portugal.
 - [LDK 2023 – 4th Conference on Language, Data and Knowledge](http://2023.ldk-conf.org). Program Chair. 12-15 September 2023.
 - [3rd Workshop on Sentiment Analysis and Linguistic Linked Data (SALLD-3)](https://www.salld.org/salld-3/). Co-located with LDK 2023. 13 September 2023.
 - [TermTrends 2023: Terminology in the Era of Linguistic Data Science](https://termtrends.linkeddata.es/).  Co-located with LDK 2023. 13 September 2023.
