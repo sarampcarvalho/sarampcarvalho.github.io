@@ -23,7 +23,7 @@ layout: page
 - C**arvalho, S.**, Costa, R. & Roche, C. (2017). *TEDi’s contribution to terminology work: the case of the EndoTerm project*. Journée d’étude “Terminologie formelle”. Équipe Condillac - Université de Savoie Mont Blanc. 12 July 2017.
 - Carvalho, S. (2017). *Representing, organising and sharing knowledge within the scope of Medicine: the role of Terminology*. Encontro Ciência 2017. Fundação para a Ciência e Tecnologia - Ciência Viva. 4 July 2017.
 
-## Participation in Organising Committees
+## Participation in Organising Committees/Event Organisation
 - Jornadas de Comunicação Técnica 2023: adaptações e conexões/Technical Communication Conference 2023: adaptations and connections. University of Aveiro - Department of Languages and Cultures. 10 November 2023, Aveiro, Portugal.
 - [International Conference on Language and Intercultural Communication Learning (LaICL). Language and intercultural competence education in a global age: bridging divides for diverse, inclusive societies](https://laicl.web.ua.pt/). University of Aveiro – Águeda School of Technology and Management. Steering Committee. 28-29 September 2023, Águeda, Portugal.
 - [LDK 2023 – 4th Conference on Language, Data and Knowledge](http://2023.ldk-conf.org). Program Chair. 12-15 September 2023.
@@ -37,7 +37,7 @@ layout: page
 - [LDK 2021 - 3rd Conference on Language, Data and Knowledge](http://2021.ldk-conf.org/organizers). Workshop Chair. 1-4 September 2021.
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
-## Participation in Scientific/Program Committees
+## Participation in Scientific/Programme Committees
 - [2nd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](http://mdtt2023.dei.unipd.it/en/). 29 - 30 June 2023, Lisbon, Portugal. 
 - [Humanities Going Digital: teaching, training and research experiences (HUGO-D Conference)](https://hugod.fcsh.unl.pt/committees/). 2-3 February 2023. NOVA FCSH, Lisbon.
 - 29th International Conference on Computational Linguistics (COLING 2022). 12-17 October 2022. Gyeongju, Republic of Korea.
