@@ -3,6 +3,7 @@ title: "Other Activities"
 layout: page
 ---
 ## Invited Talks
+- Carvalho, S. (2023). *Terminology and the medical domain in the 21st century: weaving a tapestry of knowledge*. 11th EAFT Terminology Summit 2023 - European Association for Terminology. Barcelona, 16-17 November 2023. 
 - Carvalho, S. (2022). *Definitions in SNOMED CT: the role of Terminology and Knowledge Organization*. SNOMED CT Translation User Group Meeting. 28 June 2022.
 - Carvalho, S. (2022). *Terminology and Linguistic Linked Data in the biomedical domain: hype, hope and reality*. Terminology and Specialized Knowledge Representation: New Perspectives on User Needs (TESK 2022). Rijeka, 9-10 June 2022 [Keynote speaker].
 - Carvalho, S. (2021). Membro do painel Health literacy: What's the value of an informed citizen?, no âmbito do workshop online "Healthcare in Post-Pandemic", organised by Value for Health CoLAB. 18 June 2021.
