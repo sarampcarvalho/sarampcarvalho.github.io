@@ -3,7 +3,7 @@ title: "About me"
 layout: page
 ---
 
-I am an Assistant Professor at the Department of Languages and Cultures (DLC) at the University of Aveiro, where I teach courses in terminology, specialised translation, English and German linguistics, and technical communication. Before joining the DLC, I was an Assistant Professor at the Águeda School of Technology and Management - University of Aveiro from September 2002 to December 2023.
+I am an Assistant Professor at the Department of Languages and Cultures (DLC), University of Aveiro, where I teach courses in terminology, specialised translation, English and German linguistics, and technical communication. Before joining the DLC, I was an Assistant Professor at the Águeda School of Technology and Management - University of Aveiro from September 2002 to December 2023.
 
 I hold a PhD in Linguistics, specialising in Lexicology, Lexicography and Terminology, from the Faculty of Social Sciences and Humanities – Universidade NOVA de Lisboa (NOVA FCSH). My thesis, entitled “[A terminological approach to knowledge organization within the scope of endometriosis: the EndoTerm project](http://hdl.handle.net/10362/49745)”, was developed within the scope of a co-tutelle agreement between the Universidade NOVA de Lisboa and the Communauté Université Grenoble Alpes.
 
