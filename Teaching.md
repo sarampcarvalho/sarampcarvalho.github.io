@@ -4,11 +4,11 @@ layout: page
 ---
 ## Teaching
 ### 2023-2024 Academic year
-#### 1st semester
-- Business English (Bachelor's Degree in Office Management and Business Communication. ESTGA-UA)
-- German Linguistics (Bachelor's Degree in Languages, Literatures and Cultures. DLC-UA)
-- English Applied to Management (Bachelor's Degree in Quality Management. ESTGA-UA)
-- Technical Communication (PhD Program in Translation and Terminology. DLC-UA/NOVA FCSH)
+#### 2nd semester
+- Terminology (Bachelor's Degree in Translation)
+- English Linguistics (Bachelor's Degree in Languages, Literatures and Cultures)
+- English II - Advanced Translation Practices (Master's Degree in Specialised Translation)
+- Languages and Business Relations - Case Studies (Master's Degree in Languages and Business Relations)
 
 ## Advanced Training (coordination and/or participation as trainer)
 - “Terminology and technical communication: an inseparable pair?". Seminar held within the scope of the **Technical Communication** course. PhD Program in Translation and Terminology. DLC-UA/NOVA FCSH. 26 November 2021 (2h).
