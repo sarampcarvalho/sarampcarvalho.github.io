@@ -13,6 +13,9 @@ layout: page
 - **Carvalho, S.**, Costa, R. & Silva, R. (to be published). "Terminology at the service of patient-centred healthcare in the age of interoperability". In A. Ostroski Anic et al. (Ed.), *Terminology for the Public: Defining Specialized Knowledge to Non-Specialists*. John Benjamins.
 
 ## 2022
+- Almeida, B., Costa, R., Salgado, A., Ramos, M., Romary, L., Khan, F., **Carvalho, S.**, Khemakhem, M., Silva, R. & Tasovac, T. (2022). Modelling Usage Information in a Legacy Dictionary:
+From TEI Lex-0 to Ontolex-Lemon. In: Rochat, P. et al. (eds.). *COMHUM 2022 - Computational Methods in the Humanities 2022. Proceedings of the Workshop on Computational Methods in the Humanities 2022*. Lausanne, Switzerland, June 9–10, 2022. [https://ceur-ws.org/Vol-3602/paper1.pdf](https://ceur-ws.org/Vol-3602/paper1.pdf).
+
 - Costa, R., Ramos, M., Salgado, A., **Carvalho, S.**, Almeida, B. & Silva, R. (2022). Neoterm or neologism? A closer look at the determinologisation process. In A. Klosa-Kückelhaus & I. Kernerman (Ed.), *Lexicography of Coronavirus-related Neologisms*, pp. 237-260. Berlin, Boston: De Gruyter. [https://doi.org/10.1515/9783110798081-012](https://doi.org/10.1515/9783110798081-012).
 
 - Costa, R., **Carvalho, S.**, Anic, A. O., Fahad Khan, A. (Eds.). (2022). *Proceedings of the LREC 2022 Workshop on Terminology in the 21st century: many faces, many places (Term21)*. ELRA. [http://www.lrec-conf.org/proceedings/lrec2022/workshops/TERM21/2022.term21-1.0.pdf](http://www.lrec-conf.org/proceedings/lrec2022/workshops/TERM21/2022.term21-1.0.pdf).
