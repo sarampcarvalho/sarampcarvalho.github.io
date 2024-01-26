@@ -50,7 +50,7 @@ layout: page
 - Team: Susana Fonseca (coordination), Fátima Silva, Dália Almeida, **Sara Carvalho**.
 
 # Networks
-- International Standardization Organization (ISO) - Technical Committee 37: TC37/SC2/WG1 “Language varieties”; TC37/SC3/WG5 “Terminology extraction”; TC37/SC4/WG4 “Lexical resources”.
+- International Standardization Organization (ISO) - Technical Committee 37.
 - Comissão Técnica 221: Terminologia, Língua e Linguagens. Instituto Português da Qualidade.
 - European Association for Terminology (EAFT).
 - Ontology-Lexica Community Group. W3C Community and Business Groups (https://www.w3.org/community/ontolex/).
