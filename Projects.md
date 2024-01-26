@@ -4,6 +4,12 @@ layout: page
 ---
 # Projects
 
+### Hereditary: HetERogeneous sEmantic Data integratIon for the guT-bRain interplaY
+- January 2023 - December 2027
+- Horizon Europe. Grant number: 101137074
+- Coordination: Gianmaria Silvello (Univ. Padova)
+- **Role**: Team member
+
 ### NexusLinguarum: European network for Web-centred linguistic data science 
 - [https://nexuslinguarum.eu/](https://nexuslinguarum.eu/)
 - October 2019 – April 2024
