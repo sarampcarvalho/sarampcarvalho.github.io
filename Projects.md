@@ -5,6 +5,7 @@ layout: page
 # Projects
 
 ### Hereditary: HetERogeneous sEmantic Data integratIon for the guT-bRain interplaY
+- [https://cordis.europa.eu/project/id/101137074](https://cordis.europa.eu/project/id/101137074)
 - January 2023 - December 2027
 - Horizon Europe. Grant number: 101137074
 - Coordination: Gianmaria Silvello (Univ. Padova)
