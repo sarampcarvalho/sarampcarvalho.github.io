@@ -45,11 +45,11 @@ layout: page
 - [9th Workshop on Linked Data in Linguistics: Resources, Applications, Best Practices (LDL-2024)](https://ldl2024.linguistic-lod.org/). 25 May 2024, Torino, Italy. Co-located with LREC 2024.
 - [2nd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](http://mdtt2023.dei.unipd.it/en/). 29 - 30 June 2023, Lisbon, Portugal. 
 - [Humanities Going Digital: teaching, training and research experiences (HUGO-D Conference)](https://hugod.fcsh.unl.pt/committees/). 2-3 February 2023. NOVA FCSH, Lisbon.
-- 29th International Conference on Computational Linguistics (COLING 2022). 12-17 October 2022. Gyeongju, Republic of Korea.
+- [29th International Conference on Computational Linguistics (COLING 2022)](https://coling2022.org/). 12-17 October 2022. Gyeongju, Republic of Korea.
 - [Workshop TOTh 2021 Terminology, interoperability and data integration: issues and challenges](http://toth.condillac.org/workshop-2021-en). 10 December 2021. Paris.
 - [1st Workshop on Sentiment Analysis and Linguistic Linked Data](https://www.salld.org/). Co-located with LDK 2021. 1 September 2021. Zaragoza.
-- 5th International Conference TechLing’20 – Languages, Linguistics and Technology. 15-16 October 2020. University of Aveiro.
-- Colóquio Internacional Words in (R)evolution. 2 March 2020. Department of Languages and Cultures - University of Aveiro.
+- [5th International Conference TechLing’20 – Languages, Linguistics and Technology](http://techling2020.web.ua.pt/?lang=en). 15-16 October 2020. University of Aveiro.
+- [Colóquio Internacional Words in (R)evolution](http://wordsinrevolution.web.ua.pt/). 2 March 2020. Department of Languages and Cultures - University of Aveiro.
 
 ## Journal Refereeing
 - Semantic Web Journal. IOS Press, ISSN: 1570-0844. IF: 2022 - 3.105.
