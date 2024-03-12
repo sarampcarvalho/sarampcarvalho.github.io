@@ -4,6 +4,8 @@ layout: page
 ---
 
 ## 2024
+- Silva, C., Quaresma, C., Silva, R., **Carvalho, S.**, Costa, R., Fernández, M., Fonseca, M., Pinto de Sousa, A., Londral, A. and Fonseca, M. (2024). Com@Rehab: An Interactive and Personalised Rehabilitation Activity Based on Virtual Reality. In Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF; ISBN 978-989-758-688-0; ISSN 2184-4305, SciTePress, pages 776-788. DOI: 10.5220/0012570000003657. [https://www.scitepress.org/PublicationsDetail.aspx?ID=aMPJuGvfdqU=&t=1](https://www.scitepress.org/PublicationsDetail.aspx?ID=aMPJuGvfdqU=&t=1).
+  
 - Oliveira, H. G., Rodrigues, R., Ferreira, B., Silvano P. and **Carvalho, S.** (2024). *BATS-PT: Assessing Portuguese Masked Language Models in Lexico-Semantic Analogy Solving and Relation Completion*. 16th International Conference on Computational Processing of Portuguese (PROPOR 2024). Santiago de Compostela, March 13-15, 2024. [poster]
   
 ## 2023
