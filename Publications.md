@@ -3,6 +3,9 @@ title: "Publications"
 layout: page
 ---
 
+## 2024
+- Oliveira, H. G., Rodrigues, R., Ferreira, B., Silvano P. and **Carvalho, S.** (2024). *BATS-PT: Assessing Portuguese Masked Language Models in Lexico-Semantic Analogy Solving and Relation Completion*. 16th International Conference on Computational Processing of Portuguese (PROPOR 2024). Santiago de Compostela, March 13-15, 2024. [poster]
+  
 ## 2023
 - **Carvalho, S.**,  Khan, A. F., Anić, A. O., Spahiu, B., Gracia, J., McCrae, J. P., Gromann, D., Heinisch, B. & Salgado, A. (Eds.) (2023). *Proceedings of the 4th Conference on Language, Data and Knowledge*. 12-15 September, Vienna, Austria. NOVA CLUNL, Portugal. ISBN: 978-989-54081-5-3. DOI: https://doi.org/10.34619/srmk-injj. [https://aclanthology.org/volumes/2023.ldk-1/](https://aclanthology.org/volumes/2023.ldk-1/).
 
