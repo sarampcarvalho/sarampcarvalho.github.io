@@ -11,7 +11,6 @@ layout: page
 - Carvalho, S. (2021). *Terminology and knowledge organization in healthcare: challenges and opportunities*. Seminar: "Outside the frames: new challenges in terminology work. Dynamicity of Specialized Knowledge Categories (DIKA)", Institute of Croatian Language and Linguistics. 5 March 2021.
 
 ## Conference presentations
-- Oliveira, H. G., Rodrigues, R., Ferreira, B., Silvano P. and **Carvalho, S.** (2024). *BATS-PT: Assessing Portuguese Masked Language Models in Lexico-Semantic Analogy Solving and Relation Completion*. 16th International Conference on Computational Processing of Portuguese (PROPOR 2024). Santiago de Compostela, March 13-15, 2024.
 - Silva, C., Quaresma, C., Silva, R., **Carvalho, S.**, Costa, R., Fernández, M., Fonseca, M., Pinto de Sousa, A., Londral, A., Fonseca, M. (2024). *Com@Rehab: an interactive and personalised rehabilitation activity based on Virtual Reality*. 17th International Joint Conference on Biomedical Engineering Systems and Technologies (BIOSTEC 2024). Rome, February 21-23, 2024.
 - **Carvalho, S.**, Wermuth, M. C. & Costa, R. (2023). *Exploring the role of Terminology in SNOMED CT definitions: challenges and solutions*. SNOMED CT Expo 2023. Atlanta, October 26-27, 2023.
 - **Carvalho, S.**, Silva, R., Costa, R., Fonseca, M., Quaresma, C., Londral, A. R., Fernandéz, M. & Silva, C. (2022). *Interactive communication for specific purposes using virtual reality*. LSP 2022 - Shaping knowledge through language: LSP in theory and practice. Lisbon, September 12-13, 2022.
