@@ -51,8 +51,16 @@ layout: page
 - Team: Susana Fonseca (coordination), Fátima Silva, Dália Almeida, **Sara Carvalho**.
 
 # Networks
+## Standardisation bodies
 - International Standardization Organization (ISO) - Technical Committee 37.
 - Comissão Técnica 221: Terminologia, Língua e Linguagens. Instituto Português da Qualidade.
-- European Association for Terminology (EAFT).
+
+## W3C Community and Business Groups 
 - Ontology-Lexica Community Group. W3C Community and Business Groups (https://www.w3.org/community/ontolex/).
 - Best Practices for Multilingual Linked Open Data Community Group. W3C Community and Business Groups (https://www.w3.org/community/bpmlod/).
+  
+## Associations & other working groups
+- European Association for Terminology (EAFT).
+- SNOMED CT Translation User Group.
+
+
