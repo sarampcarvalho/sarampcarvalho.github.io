@@ -52,15 +52,15 @@ layout: page
 
 # Networks
 ### Standardisation bodies
-- International Standardization Organization (ISO) - Technical Committee 37.
-- Comissão Técnica 221: Terminologia, Língua e Linguagens. Instituto Português da Qualidade.
+- [International Standardization Organization (ISO) - Technical Committee 37](https://www.iso.org/committee/48104.html).
+- [Comissão Técnica 221: Terminologia, Língua e Linguagens. Instituto Português da Qualidade](https://storagewebsiteipq.blob.core.windows.net/website/CT-221-3.pdf).
 
 ### W3C Community and Business Groups 
-- Ontology-Lexica Community Group. W3C Community and Business Groups (https://www.w3.org/community/ontolex/).
-- Best Practices for Multilingual Linked Open Data Community Group. W3C Community and Business Groups (https://www.w3.org/community/bpmlod/).
+- [Ontology-Lexica Community Group](https://www.w3.org/community/ontolex/).
+- [Best Practices for Multilingual Linked Open Data Community Group](https://www.w3.org/community/bpmlod/).
   
 ### Associations & other working groups
-- European Association for Terminology (EAFT).
-- SNOMED CT Translation User Group.
+- [European Association for Terminology (EAFT)](https://www.eaft-aet.net/en).
+- [SNOMED CT Translation User Group](https://confluence.ihtsdotools.org/display/TRANSLATIONUSERGROUP/Translation+User+Group+Home).
 
 
