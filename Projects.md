@@ -20,7 +20,7 @@ layout: page
 
 ### LL2DS - Linking Linguistics to Data Science
 - [https://clunl.fcsh.unl.pt/en/projetos/projetos-curso/ll2ds-linking-linguistics-to-data-science/](https://clunl.fcsh.unl.pt/en/projetos/projetos-curso/ll2ds-linking-linguistics-to-data-science/)
-- November 2022 – February 2024
+- October 2022 – December 2023
 - ERASMUS + PROGRAMME (ERASMUS): ERASMUS-EDU-2022-EMJM-DESIGN.
 - Coordination: Universidade NOVA de Lisboa. 
 - Partners: Università Cattolica del Sacro Cuore of Milan (Italy), University of Zaragoza (Spain), University of Galway (Ireland), National Institute for Research in Digital Science and Technology – INRIA (France).
