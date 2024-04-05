@@ -4,6 +4,8 @@ layout: page
 ---
 
 ## 2024
+- Salgado, A., Romary, L., Costa, R., Tasovac, T., Khan, A. F., Ramos, M., Almeida, B., **Carvalho, S.**, Khemakhem, M., Silva, R. & Lehečka, B. (2024). The Morais Dictionary: Following Best Practices in a Retro-digitized Dictionary Project. In *International Journal of Humanities and Arts Computing,* Volume 18 Issue 1, pages 125-147. ISSN 1753-8548. [https://doi.org/10.3366/ijhac.2024.0325](https://doi.org/10.3366/ijhac.2024.0325). 
+  
 - Silva, C., Quaresma, C., Silva, R., **Carvalho, S.**, Costa, R., Fernández, M., Fonseca, M., Pinto de Sousa, A., Londral, A. and Fonseca, M. (2024). Com@Rehab: An Interactive and Personalised Rehabilitation Activity Based on Virtual Reality. In *Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF*. ISBN 978-989-758-688-0; ISSN 2184-4305, SciTePress, pages 776-788. DOI: 10.5220/0012570000003657. [https://www.scitepress.org/PublicationsDetail.aspx?ID=aMPJuGvfdqU=&t=1](https://www.scitepress.org/PublicationsDetail.aspx?ID=aMPJuGvfdqU=&t=1).
   
 - Oliveira, H. G., Rodrigues, R., Ferreira, B., Silvano, P. & **Carvalho, S.** (2024). BATS-PT: Assessing Portuguese Masked Language Models in Lexico-Semantic Analogy Solving and Relation Completion. In *Proceedings of the 16th International Conference on Computational Processing of Portuguese*, pages 207–217, Santiago de Compostela, Galicia/Spain. Association for Computational Linguistics. [https://aclanthology.org/2024.propor-1.21](https://aclanthology.org/2024.propor-1.21).
