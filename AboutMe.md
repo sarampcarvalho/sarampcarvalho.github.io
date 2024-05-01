@@ -9,9 +9,7 @@ I hold a PhD in Linguistics, specialising in Lexicology, Lexicography and Termin
 
 I also hold an MA in German Studies – specialisation in German Linguistics – from the University of Aveiro (UA). I graduated in Modern Languages and Literature (English and German Studies) at the Faculty of Arts and Humanities – University of Coimbra and in my undergraduate studies, I had the opportunity to spend a year studying at Universität Leipzig.
 
-I am currently a researcher in the [Translation and Terminology Group](https://www.ua.pt/en/cllc/page/23270), part of the Languages, Literatures and Cultures Research Centre of the University of Aveiro (CLLC-UA), as well as in the [LLT (Lexicology, Lexicography and Terminology) Group](https://clunl.fcsh.unl.pt/en/groups_clunl/lexicologia-lexicografia-terminologia/team/), part of the Linguistics Research Centre of NOVA University Lisbon (NOVA CLUNL).
-
-In addition, I am a member of the ISO/TC 37 and of the Portuguese mirror committee "CT 221 – Terminologia, Língua e Linguagens" at the Portuguese Institute for Quality (IPQ). I also integrate the [COST Action 18209 - European network for Web-centred linguistic data science](https://www.cost.eu/actions/CA18209/), where I lead Working Group 4 (Use cases and applications).
+I am currently a researcher in the [Translation and Terminology Group](https://www.ua.pt/en/cllc/page/23270), part of the Languages, Literatures and Cultures Research Centre of the University of Aveiro (CLLC-UA), as well as in the [LLT (Lexicology, Lexicography and Terminology) Group](https://clunl.fcsh.unl.pt/en/groups_clunl/lexicologia-lexicografia-terminologia/team/), part of the Linguistics Research Centre of NOVA University Lisbon (NOVA CLUNL). I am also a member of the ISO/TC 37 and the Portuguese mirror committee "CT 221 – Terminologia, Língua e Linguagens" at the Portuguese Institute for Quality (IPQ).
 
 ***
 I am proud to be one of the co-founders of the Portuguese Association Supporting Women with Endometriosis (MulherEndo). You can learn more about our work [here](https://mulherendo.pt/).
