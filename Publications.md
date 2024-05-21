@@ -4,6 +4,8 @@ layout: page
 ---
 
 ## 2024
+- Gromann, D., Oliveira, H. G., Pitarch, L., Apostol, E.-S., Bernad, J., Bytyçi, E., Cantone, C., **Carvalho, S.***, Frontini, F., Garabik, R., Gracia, J., Granata, L., Khan, F., Knez, T., Labropoulou, P., Liebeskind, C., Pia Di Buono, M., Ostroški Anić, A., Rackevičienė, S., et al. (2024). MultiLexBATS: Multilingual Dataset of Lexical Semantic Relations. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 11783–11793, Torino, Italy. ELRA and ICCL. [https://aclanthology.org/2024.lrec-main.1029/](https://aclanthology.org/2024.lrec-main.1029/).
+
 - Salgado, A., Romary, L., Costa, R., Tasovac, T., Khan, A. F., Ramos, M., Almeida, B., **Carvalho, S.**, Khemakhem, M., Silva, R. & Lehečka, B. (2024). The Morais Dictionary: Following Best Practices in a Retro-digitized Dictionary Project. In *International Journal of Humanities and Arts Computing,* Volume 18 Issue 1, pages 125-147. ISSN 1753-8548. [https://doi.org/10.3366/ijhac.2024.0325](https://doi.org/10.3366/ijhac.2024.0325). 
   
 - Silva, C., Quaresma, C., Silva, R., **Carvalho, S.**, Costa, R., Fernández, M., Fonseca, M., Pinto de Sousa, A., Londral, A. and Fonseca, M. (2024). Com@Rehab: An Interactive and Personalised Rehabilitation Activity Based on Virtual Reality. In *Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies - HEALTHINF*. ISBN 978-989-758-688-0; ISSN 2184-4305, SciTePress, pages 776-788. DOI: 10.5220/0012570000003657. [https://www.scitepress.org/PublicationsDetail.aspx?ID=aMPJuGvfdqU=&t=1](https://www.scitepress.org/PublicationsDetail.aspx?ID=aMPJuGvfdqU=&t=1).
