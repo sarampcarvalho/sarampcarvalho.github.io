@@ -4,7 +4,7 @@ layout: page
 ---
 
 ## 2024
-- Silva, R., & **Carvalho, S.** (2024) (Guest Editors). *Linguistics and health literac(ies): crossing perspectives*. Linha D’Água, 37(2), 1-8. [https://www.revistas.usp.br/linhadagua/issue/view/13356)](https://www.revistas.usp.br/linhadagua/issue/view/13356).
+- Silva, R., & **Carvalho, S.** (2024) (Guest Editors). *Linguistics and health literac(ies): crossing perspectives*. Linha D’Água, Vol. 37 No. 2. [https://www.revistas.usp.br/linhadagua/issue/view/13356)](https://www.revistas.usp.br/linhadagua/issue/view/13356).
 
 - Silva, R., & **Carvalho, S.** (2024). *A linguística em ação na melhoria do(s) letramento(s) em saúde*. Linha D’Água, 37(2), 1-8. [https://doi.org/10.11606/issn.2236-4242.v37i2p1-8](https://doi.org/10.11606/issn.2236-4242.v37i2p1-8).
 
