@@ -4,9 +4,9 @@ layout: page
 ---
 
 ## 2024
-- Silva, R., & **Carvalho, S.** (2024) (Guest Editors). *Linguistics and health literac(ies): crossing perspectives*. Linha D’Água, Vol. 37 No. 2. [https://www.revistas.usp.br/linhadagua/issue/view/13356](https://www.revistas.usp.br/linhadagua/issue/view/13356).
+- Silva, R., **Carvalho, S.**, eds. (2024). [Revista Linha D’Água, 37(2) Linguística e letramento(s) em saúde: cruzando perspectivas](https://www.revistas.usp.br/linhadagua/issue/view/13356). São Paulo. e-ISSN 2236-4242.
 
-- Silva, R., & **Carvalho, S.** (2024). *A linguística em ação na melhoria do(s) letramento(s) em saúde*. Linha D’Água, 37(2), 1-8. [https://doi.org/10.11606/issn.2236-4242.v37i2p1-8](https://doi.org/10.11606/issn.2236-4242.v37i2p1-8).
+- Silva, R., **Carvalho, S.** (2024). *A linguística em ação na melhoria do(s) letramento(s) em saúde [editorial]*. Revista Linha D’Água, 37(2), pp.1-8. São Paulo. e-ISSN 2236-4242. [https://doi.org/10.11606/issn.2236-4242.v37i2p1-8](https://doi.org/10.11606/issn.2236-4242.v37i2p1-8).
 
 - Gromann, D., Oliveira, H. G., Pitarch, L., Apostol, E.-S., Bernad, J., Bytyçi, E., Cantone, C., **Carvalho, S.**, Frontini, F., Garabik, R., Gracia, J., Granata, L., Khan, F., Knez, T., Labropoulou, P., Liebeskind, C., Pia Di Buono, M., Ostroški Anić, A., Rackevičienė, S., et al. (2024). MultiLexBATS: Multilingual Dataset of Lexical Semantic Relations. In *Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)*, pages 11783–11793, Torino, Italy. ELRA and ICCL. [https://aclanthology.org/2024.lrec-main.1029/](https://aclanthology.org/2024.lrec-main.1029/).
 
