@@ -28,7 +28,7 @@ layout: page
 
 ### MORDigital
 - [https://mordigital.fcsh.unl.pt/](https://mordigital.fcsh.unl.pt/)
-- March 2021 – July 2024
+- March 2021 – August 2024
 - FCT-funded project: PTDC/LLT-LIN/6841/2020
 - Team: Rute Costa (PI), Ana Salgado, **Sara Carvalho (co-PI)**, Bruno Almeida, Raquel Silva, Margarida Ramos, Laurent Romary, Toma Tasovac, Mohamed Khemakhem, Fahad Khan, Jorge Gracía, Filomena Gonçalves.
 
