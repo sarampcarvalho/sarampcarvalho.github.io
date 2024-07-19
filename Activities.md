@@ -54,12 +54,13 @@ layout: page
 - [Colóquio Internacional Words in (R)evolution](http://wordsinrevolution.web.ua.pt/). 2 March 2020. Department of Languages and Cultures - University of Aveiro.
 
 ## Journal Refereeing
-- *Cahiers de Lexicologie*. Centre National De La Recherche Scientifique: Institut National de la Langue Française. ISSN : 0007-9871. 
-- *Semantic Web Journal*. IOS Press. ISSN: 1570-0844. IF: 2022 - 3.105.
-- *Rasprave*. Institute of Croatian Language and Linguistics. ISSN: 1331-6745. Q2.
-- *Linha D’Água*. Revista da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo. eISSN: 2236-4242. nível A4 no sistema Qualis/CAPES.
+- *Beyond Philology: An International Journal of Linguistics, Literary Studies and English Language Teaching*. University of Gdańsk. ISSN: 1732-1220.  
+- *Cahiers de Lexicologie*. Centre National De La Recherche Scientifique: Institut National de la Langue Française. ISSN : 0007-9871.
 - *Diacrítica*. Centro de Estudos Humanísticos da Universidade do Minho. ISSN 0870-8967.
 - *Linguamática*. Universidade do Minho/Universidade de Vigo. ISSN: 1647-0818. Q3.
+- *Linha D’Água*. Revista da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo. eISSN: 2236-4242. nível A4 no sistema Qualis/CAPES.
+- *Rasprave*. Institute of Croatian Language and Linguistics. ISSN: 1331-6745. Q2.
+- *Semantic Web Journal*. IOS Press. ISSN: 1570-0844. IF: 2022 - 3.105.
 
 ## Awards
 - Collaborative Research Award Santander NOVA 2019/2020. The Com@Rehab Project - Communication for interactive rehabilitation in virtual reality (Comunicação para reabilitação interativa em realidade virtual). September 2020.
