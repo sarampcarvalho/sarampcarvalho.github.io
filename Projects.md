@@ -9,7 +9,7 @@ layout: page
 - October 2024 - October 2028
 - European Cooperation in Science and Technology - COST Action 18209 
 - Coordination: Milan Dojchinovski (Institut Für Angewandte Informatik (infai), Leipzig).
-- **Role**: MC Member for Portugal.
+- **Role**: MC member for Portugal.
 
 ### Hereditary: HetERogeneous sEmantic Data integratIon for the guT-bRain interplaY
 - [https://cordis.europa.eu/project/id/101137074](https://cordis.europa.eu/project/id/101137074)
