@@ -8,7 +8,7 @@ layout: page
 - [https://www.cost.eu/actions/CA23147/](https://www.cost.eu/actions/CA23147/)
 - October 2024 - October 2028
 - European Cooperation in Science and Technology - COST Action 18209 
-- Coordination: Milan Dojchinovski (Institut Für Angewandte Informatik (infai), Leipzig).
+- Coordination: Milan Dojchinovski (Institut Für Angewandte Informatik, Leipzig/CTU Prague).
 - **Role**: MC member for Portugal.
 
 ### Hereditary: HetERogeneous sEmantic Data integratIon for the guT-bRain interplaY
