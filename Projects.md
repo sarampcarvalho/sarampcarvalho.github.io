@@ -4,6 +4,13 @@ layout: page
 ---
 # Projects
 
+### Global Network on Large-Scale, Cross-domain and Multilingual Open Knowledge Graphs (GOBLIN) 
+- [https://www.cost.eu/actions/CA23147/](https://www.cost.eu/actions/CA23147/)
+- October 2024 - October 2028
+- European Cooperation in Science and Technology - COST Action 18209 
+- Coordination: Milan Dojchinovski (Institut Für Angewandte Informatik (infai), Leipzig).
+- **Role**: MC Member for Portugal.
+
 ### Hereditary: HetERogeneous sEmantic Data integratIon for the guT-bRain interplaY
 - [https://cordis.europa.eu/project/id/101137074](https://cordis.europa.eu/project/id/101137074)
 - January 2024 - December 2027
