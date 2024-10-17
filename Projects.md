@@ -7,7 +7,7 @@ layout: page
 ### Global Network on Large-Scale, Cross-domain and Multilingual Open Knowledge Graphs (GOBLIN) 
 - [https://www.cost.eu/actions/CA23147/](https://www.cost.eu/actions/CA23147/)
 - October 2024 - October 2028
-- European Cooperation in Science and Technology - COST Action 18209 
+- European Cooperation in Science and Technology - COST Action 23147 
 - Coordination: Milan Dojchinovski (Institut Für Angewandte Informatik, Leipzig/CTU Prague).
 - **Role**: Co-leader of Working Group 5: Dissemination. / MC member for Portugal.
 
