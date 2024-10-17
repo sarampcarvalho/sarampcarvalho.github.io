@@ -9,7 +9,7 @@ layout: page
 - October 2024 - October 2028
 - European Cooperation in Science and Technology - COST Action 18209 
 - Coordination: Milan Dojchinovski (Institut Für Angewandte Informatik, Leipzig/CTU Prague).
-- **Role**: MC member for Portugal.
+- **Role**: Co-leader of Working Group 5: Dissemination. / MC member for Portugal.
 
 ### Hereditary: HetERogeneous sEmantic Data integratIon for the guT-bRain interplaY
 - [https://cordis.europa.eu/project/id/101137074](https://cordis.europa.eu/project/id/101137074)
@@ -23,7 +23,7 @@ layout: page
 - October 2019 – April 2024
 - European Cooperation in Science and Technology - COST Action 18209 
 - Coordination: Jorge Gracía (Univ. Zaragoza).
-- **Role**: Leader of Working Group 4: Use Cases and Applications.
+- **Role**: Co-leader of Working Group 4: Use Cases and Applications.
 
 ### LL2DS - Linking Linguistics to Data Science
 - [https://clunl.fcsh.unl.pt/en/projetos/projetos-curso/ll2ds-linking-linguistics-to-data-science/](https://clunl.fcsh.unl.pt/en/projetos/projetos-curso/ll2ds-linking-linguistics-to-data-science/)
