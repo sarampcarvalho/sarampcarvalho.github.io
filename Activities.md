@@ -42,6 +42,7 @@ layout: page
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
 ## Participation in Scientific/Programme Committees
+### Scientific Events
 - [31st International Conference on Computational Linguistics (COLING 2025)](https://coling2025.org/). 19-24 January 2025. Abu Dhabi, UAE.
 - *Caderno de Estudos*. 1.ª edição. Julho de 2024. UA Editora – Universidade de Aveiro. [https://doi.org/10.48528/rd9d-7b11](https://doi.org/10.48528/rd9d-7b11).
 - [3rd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](http://mdtt2024.dei.unipd.it/en/). 27 - 28 June 2024, Granada, Spain.
@@ -54,6 +55,9 @@ layout: page
 - [1st Workshop on Sentiment Analysis and Linguistic Linked Data](https://www.salld.org/). Co-located with LDK 2021. 1 September 2021. Zaragoza.
 - [5th International Conference TechLing’20 – Languages, Linguistics and Technology](http://techling2020.web.ua.pt/?lang=en). 15-16 October 2020. University of Aveiro.
 - [Colóquio Internacional Words in (R)evolution](http://wordsinrevolution.web.ua.pt/). 2 March 2020. Department of Languages and Cultures - University of Aveiro.
+
+### Journals
+- [Journal on Digital Terminology and Lexicography](https://jdtl.padovauniversitypress.it/). Padova University Press. Università degli studi di Padova.
 
 ## Journal Refereeing
 - *Beyond Philology: An International Journal of Linguistics, Literary Studies and English Language Teaching*. University of Gdańsk. ISSN: 1732-1220.  
