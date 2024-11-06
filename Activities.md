@@ -42,7 +42,6 @@ layout: page
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
 ## Participation in Scientific/Programme Committees
-### Scientific Events
 - [31st International Conference on Computational Linguistics (COLING 2025)](https://coling2025.org/). 19-24 January 2025. Abu Dhabi, UAE.
 - *Caderno de Estudos*. 1.ª edição. Julho de 2024. UA Editora – Universidade de Aveiro. [https://doi.org/10.48528/rd9d-7b11](https://doi.org/10.48528/rd9d-7b11).
 - [3rd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](http://mdtt2024.dei.unipd.it/en/). 27 - 28 June 2024, Granada, Spain.
@@ -56,13 +55,11 @@ layout: page
 - [5th International Conference TechLing’20 – Languages, Linguistics and Technology](http://techling2020.web.ua.pt/?lang=en). 15-16 October 2020. University of Aveiro.
 - [Colóquio Internacional Words in (R)evolution](http://wordsinrevolution.web.ua.pt/). 2 March 2020. Department of Languages and Cultures - University of Aveiro.
 
-### Journals
-- [Journal on Digital Terminology and Lexicography](https://jdtl.padovauniversitypress.it/). Padova University Press. Università degli studi di Padova.
-
 ## Journal Refereeing
 - *Beyond Philology: An International Journal of Linguistics, Literary Studies and English Language Teaching*. University of Gdańsk. ISSN: 1732-1220.  
 - *Cahiers de Lexicologie*. Centre National De La Recherche Scientifique: Institut National de la Langue Française. ISSN : 0007-9871.
 - *Diacrítica*. Centro de Estudos Humanísticos da Universidade do Minho. ISSN 0870-8967.
+- [Journal on Digital Terminology and Lexicography](https://jdtl.padovauniversitypress.it/). Padova University Press. Università degli studi di Padova.
 - *Linguamática*. Universidade do Minho/Universidade de Vigo. ISSN: 1647-0818. Q3.
 - *Linha D’Água*. Revista da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo. eISSN: 2236-4242. nível A4 no sistema Qualis/CAPES.
 - *Rasprave*. Institute of Croatian Language and Linguistics. ISSN: 1331-6745. Q2.
