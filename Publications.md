@@ -4,6 +4,8 @@ layout: page
 ---
 
 ## 2024
+- Balula, A., Simões, A. & **Carvalho, S.** (coord.) (2024). *Language and Intercultural Competence Education in a Global Age: Bridging Divides for Diverse, Inclusive Societies*. Imprensa da Universidade de Coimbra/UA Editora - Universidade de Aveiro. [https://doi.org/10.14195/978-989-26-2655-0](https://doi.org/10.14195/978-989-26-2655-0).
+   
 - Silva, R., **Carvalho, S.**, eds. (2024). Revista Linha D’Água, 37(2), [Linguística e letramento(s) em saúde: cruzando perspectivas](https://www.revistas.usp.br/linhadagua/issue/view/13356). São Paulo. e-ISSN 2236-4242.
 
 - Silva, R., **Carvalho, S.** (2024). *A linguística em ação na melhoria do(s) letramento(s) em saúde [editorial]*. Revista Linha D’Água, 37(2), pp.1-8. São Paulo. e-ISSN 2236-4242. [https://doi.org/10.11606/issn.2236-4242.v37i2p1-8](https://doi.org/10.11606/issn.2236-4242.v37i2p1-8).
