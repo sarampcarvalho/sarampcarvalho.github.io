@@ -4,6 +4,8 @@ layout: page
 ---
 
 ## 2024
+- Costa, R., Vezzani, F., Di Nunzio, G. M., Ramos, M., Silva, R., **Carvalho, S.**, Canelas, M., Bonato, V., Romanovych, A., & Boytcheva, S. (2024). *Deliverable 3.4: Medical terminology*. Zenodo. [https://doi.org/10.5281/zenodo.14628022](https://doi.org/10.5281/zenodo.14628022).
+
 - Balula, A., Simões, A. & **Carvalho, S.** (Coord.) (2024). *Language and Intercultural Competence Education in a Global Age: Bridging Divides for Diverse, Inclusive Societies*. Imprensa da Universidade de Coimbra/UA Editora - Universidade de Aveiro. [https://doi.org/10.14195/978-989-26-2655-0](https://doi.org/10.14195/978-989-26-2655-0).
    
 - Silva, R., **Carvalho, S.** (Eds.) (2024). Revista Linha D’Água, 37(2), [Linguística e letramento(s) em saúde: cruzando perspectivas](https://www.revistas.usp.br/linhadagua/issue/view/13356). São Paulo. e-ISSN 2236-4242.
