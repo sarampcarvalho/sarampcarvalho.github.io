@@ -42,6 +42,8 @@ layout: page
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
 ## Participation in Scientific/Programme Committees
+- [15th International Conference in Historical Lexicography and Lexicology (ICHLL15)](https://ichll15.acad-ciencias.pt/). 25-27 June 2025. Lisbon, Portugal.
+- [4th International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](https://mdtt2025.web.auth.gr/en/). 19-20 June 2025, Thessaloniki, Greece.
 - [31st International Conference on Computational Linguistics (COLING 2025)](https://coling2025.org/). 19-24 January 2025. Abu Dhabi, UAE.
 - *Caderno de Estudos*. 1.ª edição. Julho de 2024. UA Editora – Universidade de Aveiro. [https://doi.org/10.48528/rd9d-7b11](https://doi.org/10.48528/rd9d-7b11).
 - [3rd International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](http://mdtt2024.dei.unipd.it/en/). 27 - 28 June 2024, Granada, Spain.
