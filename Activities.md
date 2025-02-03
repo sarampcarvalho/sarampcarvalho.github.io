@@ -27,6 +27,7 @@ layout: page
 - Carvalho, S. (2017). *Representing, organising and sharing knowledge within the scope of Medicine: the role of Terminology*. Encontro Ciência 2017. Fundação para a Ciência e Tecnologia - Ciência Viva. 4 July 2017.
 
 ## Participation in Organising Committees/Event Organisation
+- [LDK 2025 – 5th Conference on Language, Data and Knowledge](http://2025.ldk-conf.org). Member of the Scientific Advisory Committee. 9-12 September 2025, Naples, Italy.
 - [TermTrends25: Bridging the Gap between Terminological Resources and Large Language Models](https://termtrends.linkeddata.es/). Co-located with LDK 2025. 9 September 2025, Naples, Italy.
 - [TermTrends24: Models and Best Practices for Terminology Representation in the Semantic Web](https://termtrends.linkeddata.es/). Co-located with MDTT 2024. 26 June 2024, Granada, Spain.
 - Jornadas de Comunicação Técnica 2023: adaptações e conexões/Technical Communication Conference 2023: adaptations and connections. University of Aveiro - Department of Languages and Cultures. 10 November 2023, Aveiro, Portugal.
