@@ -10,6 +10,11 @@ layout: page
 - English - Applied Project (Master's Degree in Languages and Business Relations)
 - Technical Communication (Doctoral Programme in Translation and Terminology)
 
+#### 2nd semester
+- English Linguistics (Bachelor's Degree in Languages, Literatures and Cultures)
+- Terminology (Bachelor's Degree in Translation)
+- Languages and Business Relations - Case Studies (Master's Degree in Languages and Business Relations)
+
 ## Advanced Training (coordination and/or participation as trainer)
 - "Linked data and terminology". Module from the course _Linguistic Linked Data – Advanced Topics_. MOOC developed within the scope of the NexusLinguarum COST Action (CA18209). Member of the Course Staff. [https://german-uds.academy/courses/course-v1:NexusLinguarum+DGN_linkeddata-advanced+2024_1/about](https://german-uds.academy/courses/course-v1:NexusLinguarum+DGN_linkeddata-advanced+2024_1/about).
 - “Terminology and technical communication: an inseparable pair?". Seminar held within the scope of the **Technical Communication** course. PhD Program in Translation and Terminology. DLC-UA/NOVA FCSH. 26 November 2021 (2h).
