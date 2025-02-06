@@ -12,7 +12,7 @@ layout: page
 - **Role**: MC member for Portugal.
 
 ### Hereditary: HetERogeneous sEmantic Data integratIon for the guT-bRain interplaY
-- [https://hereditary-project.eu/](https://hereditary-project.eu/))
+- [https://hereditary-project.eu/](https://hereditary-project.eu/)
 - January 2024 - December 2027
 - Horizon Europe. Grant number: 101137074
 - Coordination: Gianmaria Silvello (Univ. Padova)
