@@ -16,7 +16,7 @@ layout: page
 - January 2024 - December 2027
 - Horizon Europe. Grant number: 101137074
 - Coordination: Gianmaria Silvello (Univ. Padova)
-- **Role**: Team member
+- **Role**: Researcher (from 01.01.2024 to 18.02.2025)
 
 ### NexusLinguarum: European network for Web-centred linguistic data science 
 - [https://nexuslinguarum.eu/](https://nexuslinguarum.eu/)
