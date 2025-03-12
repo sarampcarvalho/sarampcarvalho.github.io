@@ -70,5 +70,8 @@ layout: page
 - *Rasprave*. Institute of Croatian Language and Linguistics. ISSN: 1331-6745. Q2.
 - *Semantic Web Journal*. IOS Press. ISSN: 1570-0844. IF: 2022 - 3.105.
 
+## Dissemination Activities
+- *New Words, New Worlds: Diving Into English Neologisms*. Workshop within the Jornadas de LLC. 10 March 2025. Department of Languages and Cultures - University of Aveiro.
+
 ## Awards
 - Collaborative Research Award Santander NOVA 2019/2020. The Com@Rehab Project - Communication for interactive rehabilitation in virtual reality (Comunicação para reabilitação interativa em realidade virtual). September 2020.
