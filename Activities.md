@@ -72,6 +72,7 @@ layout: page
 
 ## Dissemination Activities
 - **New Words, New Worlds: Diving Into English Neologisms**. Invited Talk. *Jornadas de LLC*. 10 March 2025. Department of Languages and Cultures - University of Aveiro.
+- **De prompt em prompt se vai ao longe: tradução e terminologia na era da IA**. Workshop. *Jornadas de Tradução*. 8 April 2025. Department of Languages and Cultures - University of Aveiro.
 
 ## Awards
 - Collaborative Research Award Santander NOVA 2019/2020. The Com@Rehab Project - Communication for interactive rehabilitation in virtual reality (Comunicação para reabilitação interativa em realidade virtual). September 2020.
