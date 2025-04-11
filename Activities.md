@@ -44,6 +44,7 @@ layout: page
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
 ## Participation in Scientific/Programme Committees
+- *Caderno de Estudos*. 2.ª edição. UA Editora – Universidade de Aveiro. [https://www.rcaap.pt/detail.jsp?locale=pt&id=oai:ria.ua.pt:10773/42151](https://www.rcaap.pt/detail.jsp?locale=pt&id=oai:ria.ua.pt:10773/42151).
 - [Ontolex Workshop@LDK2025](https://www.w3.org/community/ontolex/wiki/Fifth_Ontolex_Workshop_@_LDK2025). Co-located with LDK 2025. 9 September 2025, Naples, Italy.
 - [15th International Conference in Historical Lexicography and Lexicology (ICHLL15)](https://ichll15.acad-ciencias.pt/). 25-27 June 2025. Lisbon, Portugal.
 - [4th International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](https://mdtt2025.web.auth.gr/en/). 19-20 June 2025, Thessaloniki, Greece.
