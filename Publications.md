@@ -3,6 +3,9 @@ title: "Publications"
 layout: page
 ---
 
+## 2025
+- Gracia, J., Žitnik, S., Ionov, M., Chiarcos, C., Gromann, D., Mambrini, F., Passarotti, M., Stellato, A., McCrae, J., Sérasset, G., Tchechmedjiev, A., **Carvalho, S.**, Labropoulou, P. & Costa, R.  (2025). MOOC on Linguistic Linked Data. In: Curry, E., et al. The Semantic Web. ESWC 2025. Lecture Notes in Computer Science, vol 15719. Springer, Cham. https://doi.org/10.1007/978-3-031-94578-6_9
+  
 ## 2024
 - Costa, R., Vezzani, F., Di Nunzio, G. M., Ramos, M., Silva, R., **Carvalho, S.**, Canelas, M., Bonato, V., Romanovych, A., & Boytcheva, S. (2024). *Deliverable 3.4: Medical terminology*. Zenodo. [https://doi.org/10.5281/zenodo.14628022](https://doi.org/10.5281/zenodo.14628022).
 
