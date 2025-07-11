@@ -67,6 +67,7 @@ layout: page
 - [Best Practices for Multilingual Linked Open Data Community Group](https://www.w3.org/community/bpmlod/).
   
 ### Associations & other working groups
+- [EUPATI Portugal](https://www.eupati.pt/).
 - [European Association for Terminology (EAFT)](https://www.eaft-aet.net/en).
 - [SNOMED CT Translation User Group](https://confluence.ihtsdotools.org/display/TRANSLATIONUSERGROUP/Translation+User+Group+Home).
 
