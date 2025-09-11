@@ -3,17 +3,13 @@ title: "Teaching/Training"
 layout: page
 ---
 ## Teaching
-### 2024-2025 Academic year
+### 2025-2026 Academic year
 #### 1st semester
 - English - Translation Practice I (Bachelor's Degree in Translation)
 - English Language and Linguistics (Bachelor's Degree in Languages, Literatures and Cultures)
 - English - Applied Project (Master's Degree in Languages and Business Relations)
 - Technical Communication (Doctoral Programme in Translation and Terminology)
 
-#### 2nd semester
-- English Linguistics (Bachelor's Degree in Languages, Literatures and Cultures)
-- Languages and Business Relations - Case Studies (Master's Degree in Languages and Business Relations)
-- Terminology (Bachelor's Degree in Translation)
 
 ## Advanced Training (coordination and/or participation as trainer)
 - "Linked data and terminology". Module from the course _Linguistic Linked Data – Advanced Topics_. MOOC developed within the scope of the NexusLinguarum COST Action (CA18209). Member of the Course Staff. [https://german-uds.academy/courses/course-v1:NexusLinguarum+DGN_linkeddata-advanced+2024_1/about](https://german-uds.academy/courses/course-v1:NexusLinguarum+DGN_linkeddata-advanced+2024_1/about).
