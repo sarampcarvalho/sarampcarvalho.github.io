@@ -30,24 +30,25 @@ Session 2020 [Online], 24-25 November 2020. (http://toth.condillac.org/training-
 - "Ferramentas Aplicadas à Investigação em Terminologia". Seminar organised by the Lexicology, Lexicography and Terminology Research Group. NOVA FCSH. Coordination: Rute Costa. 18 February 2017 (3h).
 
 ## Advanced Training (as participant)
-- "Metalexicography and the lexicographic practice" - Rufus H. Gouws. NOVA Lisbon Summer School in Linguistics 2023. 3-7 julho 2023 (15h).
-- "End-to-end computer aided terminology work" - Patrick Drouin. NOVA Lisbon Summer School in Linguistics 2023. 3-7 julho 2023 (15h).
-- “International standard for the representation of open lexical data” - Laurent Romary. NOVA Lisbon Summer School in Linguistics 2022. 4-8 julho 2022 (15h).
-- “FAIR Terminology: design and implementation of terminological databases for open science” - Federica Vezzani e Giorgio Maria Di Nunzio. NOVA Lisbon Summer School in Linguistics 2022. 4-8 julho 2022 (15h).
-- “GROBID-Dictionaries for structuring digitised lexical resources & entry-based documents with encyclopedic or bibliographic content”. Formação dinamizada por Mohamed Khemakem no âmbito do projeto MORDigital. 13-14 novembro de 2021 (6h).
-- “Introduction to Linked Open Data in Linguistics” - Thierry Declerck e Julia Bosque-Gil. NOVA Lisbon Summer School in Linguistics 2021. 5-9 julho 2021 (15h).
-- “Docência+”. 3.ª edição. Formação dinamizada pela Universidade de Aveiro e pela Universidade do Minho. 14-25 setembro 2020 (20h).
-- “SNOMED CT Authoring Level 1 Course”. SNOMED International. Março-Agosto de 2019 (70h).
-- “Terminology and Lexical Semantics” - Pamela Faber. NOVA Lisbon Summer School in Linguistics 2019. 1-5 julho 2019 (15h).
-- “Encoding dictionaries with TEI: a masterclass” - Toma Tasovac. NOVA Lisbon Summer School in Linguistics 2019. 1-5 julho 2019 (15h).
-- “Statistics and Data Visualisation in Corpus Linguistics”. Formação dinamizada por Vaclav Brezina no âmbito da Lancaster Summer School in Corpus Linguistics. 24-27 junho 2019 (26h).
-- “3rd Summer Datathon on Linguistic Linked Open Data”. Schloss Dagstuhl - Leibniz Center for Informatics. 12-17 maio 2019 (35h).
-- “From print to screen: the theory and practice of digitizing dictionaries” - Toma Tasovac.NOVA Lisbon Summer School in Linguistics 2018. 2-6 julho 2018 (15h).
-- “SNOMED CT Content Development Course”. SNOMED International. Janeiro-Abril de 2017 (50h).
-- “Transcription et analyse de corpus multimodaux avec CLAN”. Institut de Linguistique Française. Laboratoire de recherche HUMA-NUM. Novembro de 2016 (6h).
-- “SNOMED CT Foundation Course”. SNOMED International. Setembro de 2015-Janeiro de 2016 (50h).
-- “Deutsch in der Wirtschaft”. Goethe Institut Düsseldorf. Bolsa do Goethe Institut Portugal. 28 Julho-10 Agosto de 2013 (80h).
-- “International Terminology Summer School”. TermNet (International Network for Terminology). 11-15 julho de 2011 (50h).
-- “Introduction to Terminology”. Online postgraduate course. IULA - Universitat Pompeu Fabra, Barcelona. (coord: Teresa Cabré). Março-Abril de 2010 (60h).
-- “Teaching Business English”. Bell Teacher Campus (Cambridge). 17-28 Agosto de 2009 (50h).
-- “Teaching Knowledge Test”. University of Cambridge - TESOL Examinations. (Modules: 1. Language and background to language learning and teaching; 2. Lesson planning and use of resources for language teaching; 3. Managing the teaching and learning process; 4. Content and Language Integrated Learning; 5. Knowledge About Language (Band 4/4 in all modules). Setembro de 2007-Abril de 2009.
+-  Interdisciplinary School on Applied Ontology (ISAO 2025). International Association for Ontology and its Applications. University of Catania, Italy. 15-19 September 2025. [https://www.dmi.unict.it/isao2025/](https://www.dmi.unict.it/isao2025/).
+- "Metalexicography and the lexicographic practice" - Rufus H. Gouws. NOVA Lisbon Summer School in Linguistics 2023. 3-7 July 2023 (15h).
+- "End-to-end computer-aided terminology work" - Patrick Drouin. NOVA Lisbon Summer School in Linguistics 2023. 3-7 July 2023 (15h).
+- “International standard for the representation of open lexical data” - Laurent Romary. NOVA Lisbon Summer School in Linguistics 2022. 4-8 July 2022 (15h).
+- “FAIR Terminology: design and implementation of terminological databases for open science” - Federica Vezzani e Giorgio Maria Di Nunzio. NOVA Lisbon Summer School in Linguistics 2022. 4-8 July 2022 (15h).
+- “GROBID-Dictionaries for structuring digitised lexical resources & entry-based documents with encyclopedic or bibliographic content”. Formação dinamizada por Mohamed Khemakem no âmbito do projeto MORDigital. 13-14 November 2021 (6h).
+- “Introduction to Linked Open Data in Linguistics” - Thierry Declerck and Julia Bosque-Gil. NOVA Lisbon Summer School in Linguistics 2021. 5-9 July 2021 (15h).
+- “Docência+”. 3.ª edição. Formação dinamizada pela Universidade de Aveiro e pela Universidade do Minho. 14-25 September 2020 (20h).
+- “SNOMED CT Authoring Level 1 Course”. SNOMED International. March-August 2019 (70h).
+- “Terminology and Lexical Semantics” - Pamela Faber. NOVA Lisbon Summer School in Linguistics 2019. 1-5 July 2019 (15h).
+- “Encoding dictionaries with TEI: a masterclass” - Toma Tasovac. NOVA Lisbon Summer School in Linguistics 2019. 1-5 July 2019 (15h).
+- “Statistics and Data Visualisation in Corpus Linguistics”. Formação dinamizada por Vaclav Brezina no âmbito da Lancaster Summer School in Corpus Linguistics. 24-27 June 2019 (26h).
+- “3rd Summer Datathon on Linguistic Linked Open Data”. Schloss Dagstuhl - Leibniz Center for Informatics. 12-17 May 2019 (35h).
+- “From print to screen: the theory and practice of digitizing dictionaries” - Toma Tasovac.NOVA Lisbon Summer School in Linguistics 2018. 2-6 July 2018 (15h).
+- “SNOMED CT Content Development Course”. SNOMED International. January-April 2017 (50h).
+- “Transcription et analyse de corpus multimodaux avec CLAN”. Institut de Linguistique Française. Laboratoire de recherche HUMA-NUM. November 2016 (6h).
+- “SNOMED CT Foundation Course”. SNOMED International. September 2015-January 2016 (50h).
+- “Deutsch in der Wirtschaft”. Goethe Institut Düsseldorf. Bolsa do Goethe Institut Portugal. 28 July-10 August 2013 (80h).
+- “International Terminology Summer School”. TermNet (International Network for Terminology). 11-15 July 2011 (50h).
+- “Introduction to Terminology”. Online postgraduate course. IULA - Universitat Pompeu Fabra, Barcelona. (coord: Teresa Cabré). March-April 2010 (60h).
+- “Teaching Business English”. Bell Teacher Campus (Cambridge). 17-28 August 2009 (50h).
+- “Teaching Knowledge Test”. University of Cambridge - TESOL Examinations. (Modules: 1. Language and background to language learning and teaching; 2. Lesson planning and use of resources for language teaching; 3. Managing the teaching and learning process; 4. Content and Language Integrated Learning; 5. Knowledge About Language (Band 4/4 in all modules). September 2007-April 2009.
