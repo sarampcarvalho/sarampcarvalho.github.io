@@ -45,6 +45,7 @@ layout: page
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
 ## Participation in Scientific/Programme Committees
+- [5th International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](https://mdtt2026.dei.unipd.it/en/). 25-26 June 2026, Zadar, Croatia.
 - *Caderno de Estudos*. 2.ª edição. UA Editora – Universidade de Aveiro. [https://www.rcaap.pt/detail.jsp?locale=pt&id=oai:ria.ua.pt:10773/42151](https://www.rcaap.pt/detail.jsp?locale=pt&id=oai:ria.ua.pt:10773/42151).
 - [LDK 2025 – 5th Conference on Language, Data and Knowledge](http://2025.ldk-conf.org). 9-12 September 2025, Naples, Italy.
 - [Ontolex Workshop@LDK2025](https://www.w3.org/community/ontolex/wiki/Fifth_Ontolex_Workshop_@_LDK2025). Co-located with LDK 2025. 9 September 2025, Naples, Italy.
