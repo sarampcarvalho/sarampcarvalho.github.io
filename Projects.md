@@ -70,5 +70,6 @@ layout: page
 - [EUPATI Portugal](https://www.eupati.pt/).
 - [European Association for Terminology (EAFT)](https://www.eaft-aet.net/en).
 - [SNOMED CT Translation User Group](https://confluence.ihtsdotools.org/display/TRANSLATIONUSERGROUP/Translation+User+Group+Home).
+- [International Association for Ontology and its Applications - IAOA](https://iaoa.org/).
 
 
