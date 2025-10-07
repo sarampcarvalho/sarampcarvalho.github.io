@@ -30,7 +30,8 @@ Session 2020 [Online], 24-25 November 2020. (http://toth.condillac.org/training-
 - "Ferramentas Aplicadas à Investigação em Terminologia". Seminar organised by the Lexicology, Lexicography and Terminology Research Group. NOVA FCSH. Coordination: Rute Costa. 18 February 2017 (3h).
 
 ## Advanced Training (as participant)
--  *Interdisciplinary School on Applied Ontology (ISAO 2025)*. International Association for Ontology and its Applications. University of Catania, Italy. 15-19 September 2025. [https://www.dmi.unict.it/isao2025/](https://www.dmi.unict.it/isao2025/).
+- *Avaliação na era da Inteligência Artificial: Reflexões pedagógicas*. Inovação Pedagógica. Universidade de Aveiro. 7 October 2025 (2.5h).
+- *Interdisciplinary School on Applied Ontology (ISAO 2025)*. International Association for Ontology and its Applications. University of Catania, Italy. 15-19 September 2025. [https://www.dmi.unict.it/isao2025/](https://www.dmi.unict.it/isao2025/).
 - *Metalexicography and the lexicographic practice* - Rufus H. Gouws. NOVA Lisbon Summer School in Linguistics 2023. 3-7 July 2023 (15h).
 - *End-to-end computer-aided terminology work* - Patrick Drouin. NOVA Lisbon Summer School in Linguistics 2023. 3-7 July 2023 (15h).
 - *International standard for the representation of open lexical data* - Laurent Romary. NOVA Lisbon Summer School in Linguistics 2022. 4-8 July 2022 (15h).
