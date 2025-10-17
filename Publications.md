@@ -5,7 +5,7 @@ layout: page
 
 ## 2025
 - Khemakhem, M., Valentini, C., Ralli, N., Barros, S., Löckinger, G., Vezzani, F., Salgado, A., Zhang, Z., Mahr, S., **Carvalho, S.**, Fleischmann, K. & Costa, R. (2025). Terminology Management Meets AI: The ISO/TC 37/SC 3/WG 6 Initiative. In: Gkirtzou, K., Žitnik, S., Gracia, J., Gromann, D., di Buono, M. P., Monti, J. & Ionov, M. (editors). Proceedings of the 5th Conference on Language, Data and Knowledge: Workshops. Naples, Italy. UniorPress, pp. 330-338. [https://aclanthology.org/2025.termtrends-1.2/](https://aclanthology.org/2025.termtrends-1.2/).
-- Gracia, J., Žitnik, S., Ionov, M., Chiarcos, C., Gromann, D., Mambrini, F., Passarotti, M., Stellato, A., McCrae, J., Sérasset, G., Tchechmedjiev, A., **Carvalho, S.**, Labropoulou, P. & Costa, R.  (2025). MOOC on Linguistic Linked Data. In: Curry, E., et al. The Semantic Web. ESWC 2025. Lecture Notes in Computer Science, vol 15719. Springer, Cham. [https://doi.org/10.1007/978-3-031-94578-6_9](https://doi.org/10.1007/978-3-031-94578-6_9).
+- Gracia, J., Žitnik, S., Ionov, M., Chiarcos, C., Gromann, D., Mambrini, F., Passarotti, M., Stellato, A., McCrae, J., Sérasset, G., Tchechmedjiev, A., **Carvalho, S.**, Labropoulou, P. & Costa, R.  (2025). MOOC on Linguistic Linked Data. In: Curry, E., et al. The Semantic Web. ESWC 2025. Lecture Notes in Computer Science, vol 15719. Springer, Cham, pp. 157-173. [https://doi.org/10.1007/978-3-031-94578-6_9](https://doi.org/10.1007/978-3-031-94578-6_9).
   
 ## 2024
 - Costa, R., Vezzani, F., Di Nunzio, G. M., Ramos, M., Silva, R., **Carvalho, S.**, Canelas, M., Bonato, V., Romanovych, A., & Boytcheva, S. (2024). *Deliverable 3.4: Medical terminology*. Zenodo. [https://doi.org/10.5281/zenodo.14628022](https://doi.org/10.5281/zenodo.14628022).
