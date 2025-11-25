@@ -81,7 +81,7 @@ layout: page
 - **New Words, New Worlds: Diving Into English Neologisms**. Invited Talk. *Jornadas de LLC*. 10 March 2025. Department of Languages and Cultures - University of Aveiro.
 
 ## Other Activities
-- Participation as an expert panel member in the Delphi study conducted within the **PULPIT (Public and Patient Involvement in Interprofessional Education of Undergraduate Healthcare Students)** project. [https://pulpit.pt/](https://pulpit.pt/).
+- Participation as an expert panel member in the Delphi study conducted within the **PULPIT (Public and Patient Involvement in Interprofessional Education of Undergraduate Healthcare Students)** project. [https://pulpit.pt/](https://pulpit.pt/). 15 July 2025 to 29 October 2025.
 
 ## Awards
 - Collaborative Research Award Santander NOVA 2019/2020. The Com@Rehab Project - Communication for interactive rehabilitation in virtual reality (Comunicação para reabilitação interativa em realidade virtual). September 2020.
