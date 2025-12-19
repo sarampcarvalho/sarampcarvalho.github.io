@@ -48,7 +48,7 @@ layout: page
 ## Participation in Scientific/Programme Committees
 - [5th International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](https://mdtt2026.dei.unipd.it/en/). 25-26 June 2026, Zadar, Croatia.
 - [15th edition of the Language Resources and Evaluation Conference (LREC 2026)](https://www.elra.info/lrec2026/). 11-16 May 2026, Palma de Mallorca, Spain.
-- *Caderno de Estudos*. 2.ª edição. UA Editora – Universidade de Aveiro. [https://www.rcaap.pt/detail.jsp?locale=pt&id=oai:ria.ua.pt:10773/42151](https://www.rcaap.pt/detail.jsp?locale=pt&id=oai:ria.ua.pt:10773/42151).
+- *Caderno de Estudos*. 2.ª edição. Dezembro de 2025. UA Editora – Universidade de Aveiro. [https://doi.org/10.48528/tdsw-nt75](https://doi.org/10.48528/tdsw-nt75).
 - [LDK 2025 – 5th Conference on Language, Data and Knowledge](http://2025.ldk-conf.org). 9-12 September 2025, Naples, Italy.
 - [Ontolex Workshop@LDK2025](https://www.w3.org/community/ontolex/wiki/Fifth_Ontolex_Workshop_@_LDK2025). Co-located with LDK 2025. 9 September 2025, Naples, Italy.
 - [15th International Conference in Historical Lexicography and Lexicology (ICHLL15)](https://ichll15.acad-ciencias.pt/). 25-27 June 2025. Lisbon, Portugal.
