@@ -46,7 +46,7 @@ layout: page
 - [Colóquio Internacional Voice of Customer](http://jorcomtec.web.ua.pt/). Departamento de Línguas e Culturas da Universidade de Aveiro. 29-30 November 2018.
 
 ## Participation in Scientific/Programme Committees
-- [2nd edition of the DeTermIt! Workshop: Evaluating Text Difficulty in a Multilingual Context](https://determit2026.dei.unipd.it). Co-located with LREC 2026. 11 May 2026, Palma de Maiorca, Spain.
+- [2nd edition of the DeTermIt! Workshop: Evaluating Text Difficulty in a Multilingual Context](https://determit2026.dei.unipd.it). Co-located with LREC 2026. 11 May 2026, Palma de Mallorca, Spain.
 - [5th International Conference on "Multilingual digital terminology today. Design, representation formats and management systems"](https://mdtt2026.dei.unipd.it/en/). 25-26 June 2026, Zadar, Croatia.
 - [15th edition of the Language Resources and Evaluation Conference (LREC 2026)](https://www.elra.info/lrec2026/). 11-16 May 2026, Palma de Mallorca, Spain.
 - *Caderno de Estudos*. 2.ª edição. Dezembro de 2025. UA Editora – Universidade de Aveiro. [https://doi.org/10.48528/tdsw-nt75](https://doi.org/10.48528/tdsw-nt75).
