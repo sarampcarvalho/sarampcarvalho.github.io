@@ -4,7 +4,10 @@ layout: page
 ---
 
 ## 2026
-- McCrae, J. P., Gkirtzou, K., Khan, F., Martín Chozas, P., **Carvalho, S.**, & Canning, E. (Eds.) (2026). *Proceedings of the 10th Workshop on Linked Data in Linguistics (LDL-2026) @ LREC 2026*. 12 May, Palma, Mallorca, Spain. ELRA Language Resources Association. ISBN: 978-2-493814-72-2. [http://lrec-conf.org/proceedings/lrec2026/workshops/ldl/2026.ldl-1.0.pdf](http://lrec-conf.org/proceedings/lrec2026/workshops/ldl/2026.ldl-1.0.pdf).
+- McCrae, J. P., Gkirtzou, K., Khan, F., Martín Chozas, P., **Carvalho, S.**, & Canning, E. (Eds.) (2026). *Proceedings of the 10th Workshop on Linked Data in Linguistics (LDL-2026) @ LREC 2026*. 12 May, Palma, Mallorca, Spain. ELRA Language Resources Association. ISBN: 9789027234315.[https://doi.org/10.1075/tlrp.25.08sal](https://doi.org/10.1075/tlrp.25.08sal).
+
+- Salgado, A., Costa, R., Romary, L., Tasovac, T., Khan, A. F., Khemakhem, M., Ramos, M., Almeida, B., **Carvalho, S.** & Silva, R. (2026). Usage labelling in the *Diccionario da Língua Portugueza* by Morais Silva
+A study of linguistic variation and knowledge construction. In *Lexical Variation and Knowledge Construction across Historical, Methodological, and Cultural Ecologies*. Terminology and Lexicography: Research and Practice, Volume 25, pages 123-141. ISSN 1753-8548. [https://doi.org/10.3366/ijhac.2024.0325](https://doi.org/10.3366/ijhac.2024.0325). 
 
 ## 2025
 - Khemakhem, M., Valentini, C., Ralli, N., Barros, S., Löckinger, G., Vezzani, F., Salgado, A., Zhang, Z., Mahr, S., **Carvalho, S.**, Fleischmann, K. & Costa, R. (2025). Terminology Management Meets AI: The ISO/TC 37/SC 3/WG 6 Initiative. In: Gkirtzou, K., Žitnik, S., Gracia, J., Gromann, D., di Buono, M. P., Monti, J. & Ionov, M. (editors). Proceedings of the 5th Conference on Language, Data and Knowledge: Workshops. Naples, Italy. UniorPress, pp. 330-338. [https://aclanthology.org/2025.termtrends-1.2/](https://aclanthology.org/2025.termtrends-1.2/).
