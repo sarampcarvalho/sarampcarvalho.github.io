@@ -86,6 +86,7 @@ layout: page
 - **New Words, New Worlds: Diving Into English Neologisms**. Invited Talk. *Jornadas de LLC*. 10 March 2025. Department of Languages and Cultures - University of Aveiro.
 
 ## Other Activities
+- Member of the group responsible for translating the ISO standard *24183:2024 – Technical Communication – Vocabulary* into Portuguese (Norma Portuguesa ISO 24183:2026 – Comunicação Técnica – Vocabulário). July 2026.
 - Participation as an expert panel member in the Delphi study conducted within the **PULPIT (Public and Patient Involvement in Interprofessional Education of Undergraduate Healthcare Students)** project. [https://pulpit.pt/](https://pulpit.pt/). 15 July 2025 to 29 October 2025.
 
 ## Awards
