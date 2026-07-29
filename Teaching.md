@@ -35,6 +35,7 @@ Session 2020 [Online], 24-25 November 2020. (http://toth.condillac.org/training-
 - "Ferramentas Aplicadas à Investigação em Terminologia". Seminar organised by the Lexicology, Lexicography and Terminology Research Group. NOVA FCSH. Coordination: Rute Costa. 18 February 2017 (3h).
 
 ## Advanced Training (as participant)
+- *Implementação do Referencial para Avaliação das Aprendizagens na Era da Inteligência Artificial*. Sessões mensais PFAP. Inovação Pedagógica. Universidade de Aveiro. 28 July 2026 (1.5h).
 - *Learning by Podcasting: utilizando a criação de podcasts como atividade didática* - Elton Silva. Jornadas de Inovação Pedagógica. Universidade de Aveiro. 15 June 2026 (1h30).
 - *Criar chatbots educacionais sem código (no-code)* - Ricardo Queirós. Jornadas de Inovação Pedagógica. Universidade de Aveiro. 20 January 2026 (2h).
 - *Avaliação na era da Inteligência Artificial: Reflexões pedagógicas* - Sofia Sá. Sessões mensais PFAP. Inovação Pedagógica. Universidade de Aveiro. 7 October 2025 (2.5h).
