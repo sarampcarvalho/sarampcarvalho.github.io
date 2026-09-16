@@ -3,17 +3,16 @@ title: "Teaching/Training"
 layout: page
 ---
 ## Teaching
-### 2025-2026 Academic year
+### 2026-2027 Academic year
 #### 1st semester
 - English - Translation Practice I (Bachelor's Degree in Translation)
 - English Language and Linguistics (Bachelor's Degree in Languages, Literatures and Cultures)
-- English - Applied Project (Master's Degree in Languages and Business Relations)
 - Technical Communication (Doctoral Programme in Translation and Terminology)
 
 #### 2nd semester
 - Terminology (Bachelor's Degree in Translation)
 - English Linguistics (Bachelor's Degree in Languages, Literatures and Cultures)
-- Languages in Business Relations - Case Studies (Master's Degree in Languages and Business Relations)
+- English - Advanced Translation Practice II (Master's Degree in Specialised Translation)
 
 
 ## Advanced Training (coordination and/or participation as trainer)
