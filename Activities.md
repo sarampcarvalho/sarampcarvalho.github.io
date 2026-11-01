@@ -72,7 +72,8 @@ layout: page
 - *Beyond Philology: An International Journal of Linguistics, Literary Studies and English Language Teaching*. University of Gdańsk. ISSN: 1732-1220.  
 - *Cahiers de Lexicologie*. Centre National De La Recherche Scientifique: Institut National de la Langue Française. ISSN : 0007-9871.
 - *Diacrítica*. Centro de Estudos Humanísticos da Universidade do Minho. ISSN 0870-8967.
-- [Journal on Digital Terminology and Lexicography](https://jdtl.padovauniversitypress.it/). Padova University Press. Università degli studi di Padova.
+- *Frontiers in Psychology - Psychology of Language*. Frontiers Media S.A. ISSN: 1664-1078.  
+- *Journal on Digital Terminology and Lexicography*. Padova University Press. Università degli studi di Padova. ISSN: 3103-3601.
 - *Linguamática*. Universidade do Minho/Universidade de Vigo. ISSN: 1647-0818. Q3.
 - *Linha D’Água*. Revista da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo. eISSN: 2236-4242. nível A4 no sistema Qualis/CAPES.
 - *Rasprave*. Institute of Croatian Language and Linguistics. ISSN: 1331-6745. Q2.
